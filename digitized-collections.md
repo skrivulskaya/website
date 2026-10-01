@@ -59,9 +59,9 @@ body_class: collections
 
 ## United States History
 
-### 1918-1919 Flu Pandemic
+### 1918–1919 Flu Pandemic
 
-- [The American Influenza Epidemic, 1918-1919](http://www.influenzaarchive.org/index.html)
+- [The American Influenza Epidemic, 1918–1919](http://www.influenzaarchive.org/index.html)
 
 University of Michigan Center for the History of Medicine and Michigan Publishing, University of Michigan Library
 
@@ -73,7 +73,7 @@ Beinecke Library, Yale University
 
 ### Advertising
 
-- [Ad\*Access Project (1911-1955)](https://repository.duke.edu/dc/adaccess)
+- [Ad\*Access Project (1911–1955)](https://repository.duke.edu/dc/adaccess)
 
 images and information for over 7,000 advertisements printed in U.S. and Canadian newspapers & magazines 
 
@@ -297,7 +297,7 @@ An open-access collection of an alternative press
 
 - [In Her Own Right](http://inherownright.org/)
 
-A Century of Women's Activism, 1820-1920
+A Century of Women's Activism, 1820–1920
 
 - [Jane Addams Digital Edition](https://digital.janeaddams.ramapo.edu/)
 
@@ -380,7 +380,7 @@ Duke University
 
 The Betty H. Carter Women Veterans Historical Project (WVHP), established at The University of North Carolina at Greensboro (UNCG) in 1998, documents the contributions of women in the military and related service organizations since World War I
 
-- [Women Working, 1800-1930](https://library.harvard.edu/collections/women-working-1800-1930?fbclid=IwAR0grxvsZ1nDsmz5RJ6wf8_aVGdQHApGRzr4TpKfmK1zpJXkz9exIhsmhSo)
+- [Women Working, 1800–1930](https://library.harvard.edu/collections/women-working-1800-1930?fbclid=IwAR0grxvsZ1nDsmz5RJ6wf8_aVGdQHApGRzr4TpKfmK1zpJXkz9exIhsmhSo)
 
 An exploration of women's impact on the economic life of the United States between 1800 and the Great Depression
 

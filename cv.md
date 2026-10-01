@@ -69,15 +69,15 @@ B.A., Theology
 
 ### Book Reviews
 
-Joseph Plaster, [*Kids on the Street: Queer Kinship and Religion in San Francisco's Tenderloin*](https://read.dukeupress.edu/qtr/article/3/1/41/410601) (Duke University Press, 2023) in *QTR: A Journal of Trans and Queer Studies in Religion* 3, no. 1 (2026): 41-43.
+Joseph Plaster, [*Kids on the Street: Queer Kinship and Religion in San Francisco's Tenderloin*](https://read.dukeupress.edu/qtr/article/3/1/41/410601) (Duke University Press, 2023) in *QTR: A Journal of Trans and Queer Studies in Religion* 3, no. 1 (2026): 41–43.
 
-Rodney Hessinger, [*Smitten: Sex, Gender, and the Contest for Souls in the Second Great Awakening*](https://doi.org/10.1080/03612759.2023.2237254) (Cornell University Press, 2022) in *History: Reviews of New Books* 51, no. 4 (2023): 125-126.
+Rodney Hessinger, [*Smitten: Sex, Gender, and the Contest for Souls in the Second Great Awakening*](https://doi.org/10.1080/03612759.2023.2237254) (Cornell University Press, 2022) in *History: Reviews of New Books* 51, no. 4 (2023): 125–126.
 
-Arlin C. Migliazzo, [*Mother of Modern Evangelicalism: The Life and Legacy of Henrietta Mears*](https://www.tandfonline.com/doi/full/10.1080/03612759.2021.1882232) (William B. Eerdmans, 2020) in *History: Reviews of New Books* 49, no. 2 (2021): 38-39.
+Arlin C. Migliazzo, [*Mother of Modern Evangelicalism: The Life and Legacy of Henrietta Mears*](https://www.tandfonline.com/doi/full/10.1080/03612759.2021.1882232) (William B. Eerdmans, 2020) in *History: Reviews of New Books* 49, no. 2 (2021): 38–39.
 
-Marian E. Lindberg, [*Scandal on Plum Island: A Commander Becomes the Accused*](https://doi.org/10.17077/0003-4827.31155) (East End Press, 2020) in *The Annals of Iowa* 80, no. 1 (Winter 2021): 81-82.
+Marian E. Lindberg, [*Scandal on Plum Island: A Commander Becomes the Accused*](https://doi.org/10.17077/0003-4827.31155) (East End Press, 2020) in *The Annals of Iowa* 80, no. 1 (Winter 2021): 81–82.
 
-Gillian Frank, Bethany Moreton, and Heather R. White, eds., [*Devotions and Desires: Histories of Sexuality and Religion in the Twentieth-Century United States*](https://www.jstor.org/stable/27128521) (Chapel Hill: University of North Carolina, 2018) in *The Journal of the History of Sexuality* 29, no. 2 (May 2020): 285-288.
+Gillian Frank, Bethany Moreton, and Heather R. White, eds., [*Devotions and Desires: Histories of Sexuality and Religion in the Twentieth-Century United States*](https://www.jstor.org/stable/27128521) (Chapel Hill: University of North Carolina, 2018) in *The Journal of the History of Sexuality* 29, no. 2 (May 2020): 285–288.
 
 John Wigger, [*PTL: The Rise and Fall of Jim and Tammy Faye Bakker's Evangelical Empire*](https://readingreligion.org/9780199379712/ptl/) (Oxford University Press, 2017) in *Reading Religion* (October 26, 2017).
 
@@ -127,7 +127,7 @@ Kathleen T. Talvacchia, Michael F. Pettinger, and Mark Larrimore, eds., [*Queer 
 
 ["Bad Preachers' Wives,"](https://religionandpolitics.org/2023/01/10/bad-preachers-wives/) *Religion & Politics* (January 10, 2023).
 
-["The Diminishing Importance of Personal Morality in Politics, 2011](https://www.prri.org/spotlight/the-diminishing-importance-of-personal-morality-in-politics-2011-2020/)[–](https://doi.org/10.1017/S0021875818000981)[2020,"](https://www.prri.org/spotlight/the-diminishing-importance-of-personal-morality-in-politics-2011-2020/) *PRRI Spotlight* (November 21, 2022).
+["The Diminishing Importance of Personal Morality in Politics, 2011–2020,"](https://www.prri.org/spotlight/the-diminishing-importance-of-personal-morality-in-politics-2011-2020/) *PRRI Spotlight* (November 21, 2022).
 
 ["A History of Sex Abuse in the Protestant Imagination,"](https://therevealer.org/a-history-of-sex-abuse-in-the-protestant-imagination/) *The Revealer* (March 2, 2020).
 
@@ -167,7 +167,7 @@ Kate Shellnutt, ["Jerry Falwell Jr. Finally Resigns from Liberty Amid Sex Scanda
 
 ### Invited Talks
 
-Keynote address, Religion and Sexual Abuse Project Conference, University of California, Riverside (May 30-31, 2025).
+Keynote address, Religion and Sexual Abuse Project Conference, University of California, Riverside (May 30–31, 2025).
 
 ### Organized Panels
 
@@ -209,7 +209,7 @@ Rocky Mountain American Religion Seminar, held virtually due to COVID-19 (July 2
 
 "Hypocrisy, Piety, and the In-Between: Evangelical Sex Scandals in the Late Twentieth Century," American Historical Association Annual Meeting, Chicago, IL (January 3–6, 2019).
 
-"Mapping Ministerial Elopers: Using GIS and R Shiny to Track Runaway Protestant Pastors, 1870-1914," GIS Day Lightning Talk, Navari Family Center for Digital Scholarship, Hesburgh Library, University of Notre Dame, Notre Dame, IN (November 12, 2018).
+"Mapping Ministerial Elopers: Using GIS and R Shiny to Track Runaway Protestant Pastors, 1870–1914," GIS Day Lightning Talk, Navari Family Center for Digital Scholarship, Hesburgh Library, University of Notre Dame, Notre Dame, IN (November 12, 2018).
 
 “Reverends on the Run: Ministerial Elopement Scandals in the Gilded Age Press,” Organization of American Historians Annual Meeting, Sacramento, CA (April 12–14, 2018).
 
@@ -361,7 +361,7 @@ Faculty Mentoring Program (2019–present)
 
 Advisory Board, LGBTQ Religious Archives Network (2021–2024)
 
-Committee on Academic Freedom, Organization of American Historians (2020–2023; co-chair, 2021–23)
+Committee on Academic Freedom, Organization of American Historians (2020–2023; co-chair, 2021–2023)
 
 Mentor, Holstein Dissertation Fellowship, University of California, Riverside (2020–2021)
 
