@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cv
 title: Curriculum Vitae
 permalink: /cv/
 body_class: cv
@@ -65,7 +65,7 @@ B.A., Theology
 
 ["Sex and Sexuality,"](https://global.oup.com/academic/product/the-oxford-handbook-of-christian-fundamentalism-9780198844594?cc=us&lang=en&) in *The Oxford Handbook of Christian Fundamentalism*, eds. Andrew Atherstone and David Ceri Jones (Oxford University Press, 2023).
 
-["The Crimes of Preachers: Religion, Scandal, and the Trouble with Digitized Archives,"](https://doi.org/10.1515/9783110729214-017) in *Digitised Newspapers–A New Eldorado for Historians? Tools, Methodology, Epistemology, and the Changing Practices of Writing History in the Context of Historical Newspapers Mass Digitization*, eds.Estelle Bunout, Maud Ehrmann and Frédéric Clavert (De Gruyter, 2022).
+["The Crimes of Preachers: Religion, Scandal, and the Trouble with Digitized Archives,"](https://doi.org/10.1515/9783110729214-017) in *Digitised Newspapers–A New Eldorado for Historians? Tools, Methodology, Epistemology, and the Changing Practices of Writing History in the Context of Historical Newspapers Mass Digitization*, eds. Estelle Bunout, Maud Ehrmann and Frédéric Clavert (De Gruyter, 2022).
 
 ### Book Reviews
 
@@ -333,17 +333,20 @@ Women in the United States
 
 ### Graduate Courses
 
-Advanced Seminar in United States History  
+Advanced Seminar in United States History
+
 History and Applied Media Technology
 
 History Teaching Practicum
 
-## SErvice
+## Service
 
 ### California State University San Marcos
 
-Online History Program Coordinator (2024–present)  
-Lower-Division Training Program Coordinator (2024–2025)  
+Online History Program Coordinator (2024–present)
+
+Lower-Division Training Program Coordinator (2024–2025)
+
 Representative, CSUSM Academic Senate (2022–2023; 2024–2025)
 
 Faculty Development Committee, College of Humanities, Arts, Behavioral & Social Sciences (2023–2024)
@@ -378,7 +381,8 @@ Graduate History Association Conference, Washington University in St. Louis (co-
 
 ### Journal Article Manuscripts
 
-American Religion  
+American Religion
+
 Church History: Studies in Christianity and Culture
 
 Fides et Historia
@@ -407,10 +411,10 @@ William B. Eerdmans Publishing Company
 
 American Academy of Religion
 
-American Historical Association  
-LGBTQ+ History Association  
+American Historical Association
+
+LGBTQ+ History Association
+
 Organization of American Historians
 
 Society for Historians of the Gilded Age and Progressive Era
-
-Page updated Google SitesReport abuseGoogle SitesReport abusePage details

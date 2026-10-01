@@ -389,5 +389,3 @@ An exploration of women's impact on the economic life of the United States betwe
 - [World War I Portal](https://www.archives.gov/research/african-americans/wwi)
 
 National Archives
-
-Page updated Google SitesReport abuse
