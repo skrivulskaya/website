@@ -1,0 +1,18 @@
+<header class="site-header">
+  <div class="bar">
+    <a class="brand" href="{{ '/' | relative_url }}">Suzanna Krivulskaya</a>
+    <nav class="menu" aria-label="Main">
+      {% for item in site.nav %}
+        {% assign active = false %}
+        {% if page.url contains item.url %}{% assign active = true %}{% endif %}
+        <a href="{{ item.url | relative_url }}"{% if active %} aria-current="page"{% endif %}>{{ item.title }}</a>
+      {% endfor %}
+    </nav>
+    <details class="menu-mobile">
+      <summary aria-label="Open menu">Menu</summary>
+      <nav aria-label="Main (mobile)">
+        {% for item in site.nav %}<a href="{{ item.url | relative_url }}">{{ item.title }}</a>{% endfor %}
+      </nav>
+    </details>
+  </div>
+</header>
