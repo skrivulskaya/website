@@ -1,0 +1,104 @@
+---
+layout: default
+---
+{% comment %}
+  CV page. The text lives in cv.md; this file only controls the layout.
+  The section menu on the left is built automatically from the ## headings in cv.md.
+  The PDF is rebuilt automatically by .github/workflows/cv-pdf.yml whenever cv.md changes.
+{% endcomment %}
+<section class="page-hero cv-hero">
+  <div class="wrap">
+    <div>
+      <h1>{{ page.title }}</h1>
+      <p class="cv-updated">Updated {{ site.time | date: "%B %Y" }}</p>
+    </div>
+    <a class="pdf-btn" href="{{ '/assets/files/Krivulskaya-CV.pdf' | relative_url }}" download>Download PDF</a>
+  </div>
+</section>
+
+<header class="print-head">
+  <div class="print-name">Suzanna Krivulskaya</div>
+  <div class="print-sub">Curriculum Vitae · Associate Professor of History, California State University San Marcos</div>
+  <div class="print-meta">www.suzannakrivulskaya.com · Updated {{ site.time | date: "%B %Y" }}</div>
+</header>
+
+<main class="paper">
+  <div class="wrap cv-grid">
+    <nav class="cv-toc" aria-label="CV sections"></nav>
+    <article class="prose cv-body">
+      {{ content }}
+    </article>
+  </div>
+</main>
+
+<script>
+(function () {
+  var body = document.querySelector('.cv-body');
+  var toc = document.querySelector('.cv-toc');
+  if (!body || !toc) return;
+
+  // Short labels for the menu (the page headings stay as written in cv.md)
+  var short = { 'Professional Presentations': 'Presentations', 'Teaching Experience': 'Teaching', 'Professional Affiliations': 'Affiliations' };
+  var heads = body.querySelectorAll('h2');
+  heads.forEach(function (h) {
+    var a = document.createElement('a');
+    a.href = '#' + h.id;
+    a.textContent = short[h.textContent.trim()] || h.textContent.trim();
+    toc.appendChild(a);
+  });
+
+  // Entries written as "**Title,** 2019–2024" (+ an optional plain line below)
+  // become a row with the dates aligned on the right.
+  var YEARS = /,\s*((?:\d{4}|\d{4}\s*[–-]\s*(?:\d{4}|present)?))\s*$/;
+  body.querySelectorAll('p').forEach(function (p) {
+    var first = p.firstElementChild;
+    if (!first || first.tagName !== 'STRONG' || p.firstChild !== first) return;
+    var m = p.textContent.match(YEARS);
+    if (!m) return;
+    var row = document.createElement('div');
+    row.className = 'cv-row';
+    var title = document.createElement('div');
+    title.className = 'cv-title';
+    title.innerHTML = '<strong>' + first.innerHTML.replace(/,\s*$/, '') + '</strong>';
+    var next = p.nextElementSibling;
+    if (next && next.tagName === 'P' && !next.querySelector('strong, a') && !YEARS.test(next.textContent)) {
+      var sub = document.createElement('div');
+      sub.className = 'cv-sub';
+      sub.innerHTML = next.innerHTML;
+      title.appendChild(sub);
+      next.remove();
+    }
+    var yr = document.createElement('div');
+    yr.className = 'cv-year';
+    yr.textContent = m[1];
+    row.appendChild(title); row.appendChild(yr);
+    p.replaceWith(row);
+  });
+
+  // Service entries written as "Role (2021–2024)" get the same right-aligned dates.
+  var inService = false;
+  Array.prototype.forEach.call(body.children, function (el) {
+    if (el.tagName === 'H2') inService = /^service$/i.test(el.textContent.trim());
+    if (!inService || el.tagName !== 'P') return;
+    var m = el.innerHTML.match(/^(.*\S)\s*\(([^()]*\d{4}[^()]*)\)\s*$/);
+    if (!m) return;
+    var row = document.createElement('div');
+    row.className = 'cv-row';
+    row.innerHTML = '<div class="cv-title">' + m[1] + '</div><div class="cv-year">' + m[2] + '</div>';
+    el.replaceWith(row);
+  });
+
+  // Highlight the current section in the menu while scrolling
+  if ('IntersectionObserver' in window) {
+    var links = toc.querySelectorAll('a');
+    var obs = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        if (!e.isIntersecting) return;
+        links.forEach(function (l) { l.classList.toggle('on', l.getAttribute('href') === '#' + e.target.id); });
+      });
+    }, { rootMargin: '-10% 0px -80% 0px' });
+    heads.forEach(function (h) { obs.observe(h); });
+  }
+  document.documentElement.classList.add('cv-ready');
+})();
+</script>
