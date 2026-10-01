@@ -26,7 +26,7 @@ jobs:
   pdf:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - uses: ruby/setup-ruby@v1
         with:
@@ -38,7 +38,7 @@ jobs:
           gem install jekyll-redirect-from jekyll-seo-tag kramdown-parser-gfm webrick --no-document
           jekyll build -d _site
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -55,7 +55,12 @@ jobs:
           git add assets/files/Krivulskaya-CV.pdf
           if git diff --cached --quiet; then
             echo "PDF unchanged"
-          else
-            git commit -m "Update CV PDF"
-            git push
+            exit 0
           fi
+          git commit -m "Update CV PDF"
+          # If other edits were saved while this ran, fold them in and try again.
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 10
+          done
+          exit 1
