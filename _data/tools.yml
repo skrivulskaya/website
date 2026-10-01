@@ -1,0 +1,80 @@
+- category: "Archival Research & Citations"
+  tools:
+    - name: "Tropy"
+      url: "https://tropy.org/"
+      description: "organize images"
+      image: /assets/img/tools/tropy.png
+    - name: "Zotero"
+      url: "https://www.zotero.org/"
+      description: "manage citations"
+      image: /assets/img/tools/zotero.png
+- category: "Data Preparation"
+  tools:
+    - name: "Open Refine"
+      url: "https://openrefine.org/"
+      description: "clean data"
+      image: /assets/img/tools/open-refine.png
+    - name: "Tabula"
+      url: "https://tabula.technology/"
+      description: "extract PDFs"
+      image: /assets/img/tools/tabula.png
+- category: "Data Visualization"
+  tools:
+    - name: "Datawrapper"
+      url: "https://app.datawrapper.de/"
+      description: "interactive charts"
+      image: /assets/img/tools/datawrapper.png
+    - name: "Tableau Public"
+      url: "https://public.tableau.com/app/discover"
+      description: "graphs, maps, charts"
+      image: /assets/img/tools/tableau-public.jpg
+- category: "Network Analysis"
+  tools:
+    - name: "Gephi"
+      url: "https://gephi.org/"
+      description: "network graphs"
+      image: /assets/img/tools/gephi.png
+    - name: "Kumu"
+      url: "https://www.kumu.io/"
+      description: "relationship maps"
+      image: /assets/img/tools/kumu.png
+- category: "Mapping"
+  tools:
+    - name: "StoryMaps JS"
+      url: "https://storymap.knightlab.com/?utm_source=syndicate&utm_campaign=onextrapixel-oct2016&utm_medium=post"
+      description: "simple maps"
+      image: /assets/img/tools/storymaps-js.png
+    - name: "QGIS"
+      url: "https://qgis.org/en/site/"
+      description: "sophisticated maps"
+      image: /assets/img/tools/qgis.png
+- category: "Text Analysis"
+  tools:
+    - name: "jsLDA"
+      url: "https://mimno.infosci.cornell.edu/jsLDA/"
+      description: "topic modeling"
+      image: /assets/img/tools/jslda.png
+    - name: "Voyant"
+      url: "https://voyant-tools.org/"
+      description: "text analysis"
+      image: /assets/img/tools/voyant.png
+- category: "Presentation"
+  tools:
+    - name: "Canva"
+      url: "https://www.canva.com/"
+      description: "flyers & logos"
+      image: /assets/img/tools/canva.jpg
+    - name: "Piktochart"
+      url: "https://piktochart.com/"
+      description: "infographs & charts"
+      image: /assets/img/tools/piktochart.jpg
+- category: "Publishing"
+  tools:
+    - name: "GitHub Pages"
+      url: "https://pages.github.com/"
+      description: "website hosting"
+      image: /assets/img/tools/github-pages.png
+    - name: "Omeka"
+      url: "https://omeka.org/"
+      description: "online exhibits"
+      image: /assets/img/tools/omeka.png
