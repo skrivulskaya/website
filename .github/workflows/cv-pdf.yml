@@ -1,0 +1,61 @@
+# Rebuilds assets/files/Krivulskaya-CV.pdf whenever the CV or the site design changes.
+# You can also run it by hand: GitHub → Actions → "Update CV PDF" → "Run workflow".
+name: Update CV PDF
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "cv.md"
+      - "_layouts/**"
+      - "_includes/**"
+      - "assets/css/**"
+      - "_config.yml"
+      - "scripts/cv_pdf.py"
+      - ".github/workflows/cv-pdf.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cv-pdf
+  cancel-in-progress: true
+
+jobs:
+  pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+
+      - name: Build the site
+        run: |
+          gem install jekyll -v 3.10.0 --no-document
+          gem install jekyll-redirect-from jekyll-seo-tag kramdown-parser-gfm webrick --no-document
+          jekyll build -d _site
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Make the PDF
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+          python scripts/cv_pdf.py _site assets/files/Krivulskaya-CV.pdf
+
+      - name: Save the PDF to the site
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/files/Krivulskaya-CV.pdf
+          if git diff --cached --quiet; then
+            echo "PDF unchanged"
+          else
+            git commit -m "Update CV PDF"
+            git push
+          fi
