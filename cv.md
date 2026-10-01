@@ -89,7 +89,7 @@ Kathleen T. Talvacchia, Michael F. Pettinger, and Mark Larrimore, eds., [*Queer 
 
 ### Scholarly Contributions
 
-[The Palace of Thundering Gods](https://www.americanyawp.com/projects/the-palace-of-thundering-gods/) (contributor; forthcoming).
+[The Palace of Thundering Gods](https://www.americanyawp.com/projects/the-palace-of-thundering-gods/) (contributor).
 
 [Politics of Gender, Pronouns, and Public Education](https://www.youtube.com/watch?v=P_ySG1jPows) (webinar panelist).
 
