@@ -1,0 +1,16 @@
+---
+layout: page
+title: Tutorials
+permalink: /tutorials/
+wide: true
+---
+{% comment %}Cards are built automatically from the pages in this folder, sorted by their "order" number.{% endcomment %}
+{% assign tutorials = site.pages | where: "layout", "tutorial" | sort: "order" %}
+<div class="tut-grid">
+  {% for t in tutorials %}
+  <a class="tut" href="{{ t.url | relative_url }}">
+    <div class="thumb"><img src="{{ t.image | relative_url }}" alt="" loading="lazy"></div>
+    <b>{{ t.card_title | default: t.title }}</b>
+  </a>
+  {% endfor %}
+</div>
