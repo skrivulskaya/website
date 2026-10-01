@@ -29,7 +29,7 @@ Now that you've watched the first half of [Klas Karlsson's tutorial](https://you
 
 - Click **Save Project** to save your progress (I will remind you to save your changes multiple times throughout the tutorial, as this is a profoundly useful habit to get into with any kind of DH work).
 
-- Next, let's explore what we just imported. In the Layers panel (the one in the bottom left of your screen), right-click on the harvard-ngis-pop1870-shapefile layer and select **Rename Layer**. Rename it to "1870 Census." It's always good to give the different layers logical names so as you add new layers, you know exactly what each one represents.
+- Next, let's explore what we just imported. In the Layers panel (the one in the bottom left of your screen), right-click on the harvard-nhgis-pop1870-shapefile layer and select **Rename Layer**. Rename it to "1870 Census." It's always good to give the different layers logical names so as you add new layers, you know exactly what each one represents.
 
 ![]({{ site.baseurl }}/assets/img/tutorials/qgis-3.jpg)
 
@@ -93,7 +93,7 @@ Now that you've watched the first half of [Klas Karlsson's tutorial](https://you
 
 - We are back to the railroads lonesomely floating in space, which is fine because we are trying to change how they are displayed on the map.
 
-- Let's get into our Rairoads' **Properties** and once again deal with the **Symbology** tab in the left-hand menu. You'll see right away under **Single Symbol** that the railroads are displayed as a **Line/Simple Line**. If you look down, you'll see their color, opacity, and width, along with various other options available to you underneath.
+- Let's get into our Railroads' **Properties** and once again deal with the **Symbology** tab in the left-hand menu. You'll see right away under **Single Symbol** that the railroads are displayed as a **Line/Simple Line**. If you look down, you'll see their color, opacity, and width, along with various other options available to you underneath.
 
 ![]({{ site.baseurl }}/assets/img/tutorials/qgis-11.png)
 
@@ -127,13 +127,13 @@ Now that you've watched the first half of [Klas Karlsson's tutorial](https://you
 
 - There is a built-in tool called **Georeferencer** that will help us do that. In the main QGIS menu (at the top of the window), select **Layer** and click on **Georeferencer**. (If you can't find it there for whatever reason, you can always type the word Georeferencer into the Help menu at the top as well.)
 
-- A new, depressingly blank Georeferener window should pop up. If your mouse hovers over the blank canvas, you will notice it will change its cursor and clicking anywhere will leave a dot. These dots will tell QGIS which feature in your .jpg map corresponds to the existing georeferenced map.
+- A new, depressingly blank Georeferencer window should pop up. If your mouse hovers over the blank canvas, you will notice it will change its cursor and clicking anywhere will leave a dot. These dots will tell QGIS which feature in your .jpg map corresponds to the existing georeferenced map.
 
 - You technically only need three points to georeference an image, but the more points you add, the better your accuracy will be. My strategy: click on easily identifiable features, such as distinct borders, lakes, and curves for perfect alignment.
 
 - Let's try this. At the top of the **Georeferencer** menu window, click on the **Open Raster** button (blue square in the left-hand corner) and once again navigate to the .jpg of the map you just downloaded; it should now show up in your canvas.
 
-- In the middle of the **Georeferencer** menu window, click on the **Add Point** button (looks like a plane with a yellow star next to it) and begin adding points. Again, here precision matters. So start by zooming into Florida and clicking the southmost point. Once you've hit that, a new dialogue window will pop up asking you how you want to go about georeferencing that point. Click From **Map Canvas** in the left-hand corner of the pop-up. Repeat what you did with the image on the actual map: zoom all the way into Florida and find the exact same point that you had clicked on in Georeferencer. 
+- In the middle of the **Georeferencer** menu window, click on the **Add Point** button (looks like a plane with a yellow star next to it) and begin adding points. Again, here precision matters. So start by zooming into Florida and clicking the southernmost point. Once you've hit that, a new dialogue window will pop up asking you how you want to go about georeferencing that point. Click From **Map Canvas** in the left-hand corner of the pop-up. Repeat what you did with the image on the actual map: zoom all the way into Florida and find the exact same point that you had clicked on in Georeferencer. 
 
 - Now that same pop up will appear with filled-in coordinates. Click **OK**.
 
@@ -170,5 +170,3 @@ Now that you've watched the first half of [Klas Karlsson's tutorial](https://you
 - Click **Save Project**.
 
 - You can continue customizing your visibility settings and playing around with different views. You can also export any view of your map and share it with others. Congratulations on successfully learning how to make maps, add data and features, and georeference historical maps!
-
-Page updated Google SitesReport abuseGoogle SitesReport abusePage details

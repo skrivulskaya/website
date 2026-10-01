@@ -46,5 +46,3 @@ If all you need are static high-resolution images that you can then present on y
 ![]({{ site.baseurl }}/assets/img/tutorials/tableau-6.jpg)
 
 - You now have a publishable quality image ready to go. Don't forget that you can also always change the font sizes and colors in Tableau before you export the image so as to make it readable and accessible. Happy visualizing!
-
-Page updated Google SitesReport abuseGoogle SitesReport abusePage details

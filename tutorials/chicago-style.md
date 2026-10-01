@@ -120,5 +120,3 @@ There are many other kinds of sources you might need to cite, but they all gener
 - There can only be one footnote per sentence. If you have multiple citations for the same sentence, include them all in the same footnote and separate them by a semicolon.
 
 - The order of in-text footnote punctuation for a sentence that ends with a quote is: period + closing quotation mark + footnote number. 
-
-Page updated Google SitesReport abuseGoogle SitesReport abusePage details

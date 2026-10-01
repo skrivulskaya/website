@@ -54,5 +54,3 @@ Let's try an example export. Suppose that I was interested in studying the racia
 - The other thing to note (and keep) is the very first column in all these exports: **GISJOIN**. This is the column that will let me join the file that has data in it with the GIS county boundary file that I also requested to download (the **2008 TIGER/Line +** dataset). Opening that file in QGIS and joining it with my CA data file will allow me to map the different racial/ethnicities categories that I was able to find for 1880.
 
 - Repeat the above steps for 1890, 1900, 1910, and 1920—remembering that some data will likely be missing and that territorial boundaries and definitions of "race" will shift over time. Remember to always cite [IPUMS NHGIS](https://www.nhgis.org/citation-and-use-nhgis-data) in any project that uses their data.
-
-Page updated Google SitesReport abuseGoogle SitesReport abusePage details

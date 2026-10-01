@@ -36,5 +36,3 @@ order: 8
 7.  Optional: In the **Advanced** tab under **Files and Folders**, you can change the default directory where your data will be stored (recommended if you wanted to use something like Google Drive to automatically back up your data and PDFs).
 
 8.  Consult the [Zotero Quick Start Guide](https://www.zotero.org/support/quick_start_guide) to explore some of the useful features Zotero offers.
-
-Page updated Google SitesReport abuseGoogle SitesReport abusePage details

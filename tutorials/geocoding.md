@@ -42,5 +42,3 @@ OPTION 2. Assuming you don't want to learn a new programming language and deal w
 9.  Go through the list and note any potential discrepancies. Misspellings or places that the tool cannot locate will be assigned wrong coordinates that should be obvious to spot. 
 
 10. Note: in the event that the data you've copied gets pasted into a single column as a string of text, do the following: select the column, in the menu go to **Data**, select **Text to Columns**, select **Delimited**, click **Next**, select **Comma** from the **Delimited** category (and unselect everything else), click **Next**, and click **Finish**.
-
-Page updated Google SitesReport abuseGoogle SitesReport abusePage details

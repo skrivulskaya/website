@@ -1,6 +1,6 @@
 ---
 layout: tutorial
-title: "Storymaps"
+title: "StoryMaps"
 card_title: "StoryMaps"
 permalink: /tutorials/storymaps/
 image: /assets/img/tutorials/card-storymaps.png
@@ -9,7 +9,7 @@ order: 4
 
 StoryMaps are useful for visualizing place-based narratives. This is a brief guide to some options of free platforms as well as subscription-based software. (*\*Note that CSUSM students can use the institutional subscription to ArcGIS Online.*)
 
-Esri, the company behind [ArcGIS,](https://www.esri.com/en-us/arcgis/about-arcgis/overview) has recently released a new version of their [StoryMaps](https://storymaps.arcgis.com/) platform. The free version has multiple limitations, but following these steps (assuming your institution pays for an ArcGiS Online subscription) allows for greater flexibility in design, use, and dissemination.
+Esri, the company behind [ArcGIS,](https://www.esri.com/en-us/arcgis/about-arcgis/overview) has recently released a new version of their [StoryMaps](https://storymaps.arcgis.com/) platform. The free version has multiple limitations, but following these steps (assuming your institution pays for an ArcGIS Online subscription) allows for greater flexibility in design, use, and dissemination.
 
 Here is how to get to the benefits of your institutional subscription:
 
@@ -28,5 +28,3 @@ Here is how to get to the benefits of your institutional subscription:
 - Here is a [tutorial](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4) to get you started.
 
 - Once you've built your StoryMap, you can embed it as an iFrame into your own project website using [this tutorial](https://www.esri.com/arcgis-blog/products/arcgis-online/mapping/embedding-story-maps-in-websites-and-blogs/).
-
-Page updated Google SitesReport abuseGoogle SitesReport abusePage details

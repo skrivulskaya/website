@@ -44,5 +44,3 @@ Once you've read through the basics above, let's set up a couple of things right
 - Some of the assignments require that you embed iFrame code into your blog posts. There is a known glitch with embedding, which we will troubleshoot when the time comes using the [library's workaround guide](https://biblio.csusm.edu/content/embedding-tableaus-wordpress-post). For now, go ahead and activate the following **Plugins** available to you under the WP **Dashboard** menu: **Advanced iFrame** and **Elementor**.
 
 If any of the above didn't work, don't get discouraged—we can troubleshoot some of it during our first class meeting and/or address it in the class Slack channel, which we'll set up on the first day of class. Welcome to HIST 502!
-
-Page updated Google SitesReport abuseGoogle SitesReport abusePage details
