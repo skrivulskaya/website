@@ -1,0 +1,33 @@
+# Site settings. Most edits never need to touch this file.
+title: Suzanna Krivulskaya
+description: Historian of modern U.S. religion and sexuality, Associate Professor of History at California State University San Marcos, and author of Disgraced (Oxford University Press).
+author: Suzanna Krivulskaya
+url: ""
+baseurl: "/website"   # test address; change to "" when the domain switches
+
+linkedin: https://linkedin.com/in/suzannakrivulskaya
+scholar: https://scholar.google.com/citations?hl=en&user=1CGMgtcAAAAJ
+
+# Top menu, in order
+nav:
+  - title: CV
+    url: /cv/
+  - title: Digital History Tools
+    url: /digital-history-tools/
+  - title: Digitized Collections
+    url: /digitized-collections/
+  - title: Tutorials
+    url: /tutorials/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - HOW-TO-UPDATE.md
