@@ -2,8 +2,8 @@
 title: Suzanna Krivulskaya
 description: Historian of modern U.S. religion and sexuality, Associate Professor of History at California State University San Marcos, and author of Disgraced (Oxford University Press).
 author: Suzanna Krivulskaya
-url: ""
-baseurl: "/website"   # test address; change to "" when the domain switches
+url: "https://www.suzannakrivulskaya.com"
+baseurl: ""
 
 linkedin: https://linkedin.com/in/suzannakrivulskaya
 scholar: https://scholar.google.com/citations?hl=en&user=1CGMgtcAAAAJ
@@ -12,10 +12,6 @@ scholar: https://scholar.google.com/citations?hl=en&user=1CGMgtcAAAAJ
 nav:
   - title: CV
     url: /cv/
-  - title: Digital History Tools
-    url: /digital-history-tools/
-  - title: Digitized Collections
-    url: /digitized-collections/
   - title: Tutorials
     url: /tutorials/
 

@@ -1,5 +1,6 @@
 ---
 layout: page
+published: false   # hidden; change to true (or delete this line) to show the page again
 title: Digitized Collections
 permalink: /digitized-collections/
 body_class: collections
