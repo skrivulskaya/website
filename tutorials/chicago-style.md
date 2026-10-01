@@ -43,7 +43,7 @@ First_Name Last_Name, *Title of the Book in Italics: Some Books Also Include Sub
 
 **The Example:**
 
-Susan Stryker, *Transgender History: The Roots of Today's Revolution*, 2nd ed. (Seal Press, 2017), 20-21.
+Susan Stryker, *Transgender History: The Roots of Today's Revolution*, 2nd ed. (Seal Press, 2017), 20–21.
 
 [![]({{ site.baseurl }}/assets/img/tutorials/chicago-style-3.jpg)](https://uncpress.org/book/9781469636269/devotions-and-desires/)
 
@@ -57,7 +57,7 @@ First_Name Last_Name, "Title of the Chapter in Quotation Marks," in *Title of th
 
 **The Example:**
 
-Judith Weisenfeld, "Real True Buds: Celibacy and Same-Sex Desire across the Color Line in Father Divine’s Peace Mission Movement," in *Devotions and Desires: Histories of Sexuality and Religion in the Twentieth-Century United States*, eds. Gillian Frank, Bethany Moreton, and Heather R. White (University of North Carolina Press, 2018), 90-112.
+Judith Weisenfeld, "Real True Buds: Celibacy and Same-Sex Desire across the Color Line in Father Divine’s Peace Mission Movement," in *Devotions and Desires: Histories of Sexuality and Religion in the Twentieth-Century United States*, eds. Gillian Frank, Bethany Moreton, and Heather R. White (University of North Carolina Press, 2018), 90–112.
 
 [![]({{ site.baseurl }}/assets/img/tutorials/chicago-style-4.jpg)](https://www.penguinrandomhouse.com/books/55036/the-history-of-sexuality-by-michel-foucault/)
 
@@ -83,7 +83,7 @@ First_Name Last_Name, "Title of the Article: Most Journal Articles Include Subti
 
 **The Example:**
 
-Kathryn Lofton, “Why Religion Is Hard For Historians (and How It Can Be Easier),” *Modern American History* 3, no. 1 (March 2020): 69-86.
+Kathryn Lofton, “Why Religion Is Hard For Historians (and How It Can Be Easier),” *Modern American History* 3, no. 1 (March 2020): 69–86.
 
 ![]({{ site.baseurl }}/assets/img/tutorials/chicago-style-6.gif)
 

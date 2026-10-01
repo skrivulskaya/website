@@ -149,7 +149,7 @@ Now that you've watched the first half of [Klas Karlsson's tutorial](https://you
 
 ![]({{ site.baseurl }}/assets/img/tutorials/qgis-15.jpg)
 
-- Once you've entered 5-10 points, in the **Georeferencer** menu, click on **Transformation Settings** (yellow gear icon). For **Transformation type**, choose **Thin Plate Spline** and for **Resampling methods**, choose **Cubic Spline**. Click the three dots to the right of **Output file** and select a folder in which your warped image will be saved (I recommend your QGIS tutorial folder). Finally, check the box that says **Use 0 for transparency when needed**. Click **OK**.
+- Once you've entered 5–10 points, in the **Georeferencer** menu, click on **Transformation Settings** (yellow gear icon). For **Transformation type**, choose **Thin Plate Spline** and for **Resampling methods**, choose **Cubic Spline**. Click the three dots to the right of **Output file** and select a folder in which your warped image will be saved (I recommend your QGIS tutorial folder). Finally, check the box that says **Use 0 for transparency when needed**. Click **OK**.
 
 - Go back to the top of the Georeferencer menu and click the green **Play** button. This is what **initiates** the merging of your image with the map. Wait...
 
