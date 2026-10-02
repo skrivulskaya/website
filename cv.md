@@ -77,7 +77,7 @@ Arlin C. Migliazzo, [*Mother of Modern Evangelicalism: The Life and Legacy of He
 
 Marian E. Lindberg, [*Scandal on Plum Island: A Commander Becomes the Accused*](https://doi.org/10.17077/0003-4827.31155) (East End Press, 2020) in *The Annals of Iowa* 80, no. 1 (Winter 2021): 81–82.
 
-Gillian Frank, Bethany Moreton, and Heather R. White, eds., [*Devotions and Desires: Histories of Sexuality and Religion in the Twentieth-Century United States*](https://www.jstor.org/stable/27128521) (University of North Carolina Press, 2018) in *Journal of the History of Sexuality* 29, no. 2 (May 2020): 285–288.
+Gillian Frank, Bethany Moreton, and Heather R. White, eds., [*Devotions and Desires: Histories of Sexuality and Religion in the Twentieth-Century United States*](https://www.jstor.org/stable/27128521) (University of North Carolina Press, 2018) in *The Journal of the History of Sexuality* 29, no. 2 (May 2020): 285–288.
 
 John Wigger, [*PTL: The Rise and Fall of Jim and Tammy Faye Bakker's Evangelical Empire*](https://readingreligion.org/9780199379712/ptl/) (Oxford University Press, 2017) in *Reading Religion* (October 26, 2017).
 
@@ -239,7 +239,7 @@ Center for the Study of American Religion and Culture, Indiana University Indian
 
 **Young Scholars in American Religion Program,** 2023–2025
 
-Center for the Study of American Religion and Culture, Indiana University-Purdue University
+Center for the Study of American Religion and Culture, Indiana University Indianapolis
 
 **PRRI Fellowship in Religion and LGBTQ+ Rights,** 2022–2024
 
@@ -284,10 +284,6 @@ Department of History, University of Notre Dame
 **Writing Workshop Fellowship,** 2016
 
 Collegeville Institute
-
-**Striving for Excellence in Teaching Certificate,** 2016
-
-Kaneb Center for Teaching Excellence
 
 **Professionalization Fund Award,** 2015
 
@@ -363,7 +359,7 @@ Mentor, Holstein Dissertation Fellowship, University of California, Riverside (2
 
 Selection Committee, Southern California Conference for Undergraduate Research (2019)
 
-Editorial Board, *Journal of the Gilded Age and Progressive Era* (2019–2023)
+Editorial Board, Journal of the Gilded Age and Progressive Era (2019–2023)
 
 Hesburgh Libraries Graduate Student Advisory Panel, University of Notre Dame (2018–2019)
 
