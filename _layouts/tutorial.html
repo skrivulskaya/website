@@ -1,15 +1,112 @@
 ---
 layout: default
 ---
-<section class="page-hero">
+{% comment %}
+  Tutorial page template. The text of each tutorial lives in tutorials/<name>.md.
+  Optional settings at the top of each tutorial file:
+    description: one sentence shown on the Tutorials page
+    audience:    a small label such as "HIST 502 · CSUSM"
+    steps: true  numbers the bulleted steps automatically
+  The "On this page" menu is built from the ## headings.
+{% endcomment %}
+{% assign words = content | strip_html | number_of_words %}
+{% assign minutes = words | divided_by: 200 | plus: 1 %}
+{% assign tutorials = site.pages | where: "layout", "tutorial" | sort: "order" %}
+{% for t in tutorials %}{% if t.url == page.url %}{% assign i = forloop.index0 %}{% endif %}{% endfor %}
+{% assign prev_i = i | minus: 1 %}{% assign next_i = i | plus: 1 %}
+
+<div class="read-progress" aria-hidden="true"><span></span></div>
+
+<section class="page-hero tut-hero">
   <div class="wrap">
     <a class="back" href="{{ '/tutorials/' | relative_url }}">← All tutorials</a>
     <h1>{{ page.title }}</h1>
+    <div class="tut-meta">
+      <span>{{ minutes }} min read</span>
+      {% if page.audience %}<span class="chip">{{ page.audience }}</span>{% endif %}
+    </div>
   </div>
 </section>
+
 <main class="paper">
-  <div class="wrap prose">
-    {{ content }}
-    <p class="back-bottom"><a href="{{ '/tutorials/' | relative_url }}">← All tutorials</a></p>
+  <div class="wrap tut-layout">
+    <nav class="tut-toc" aria-label="On this page"><div class="toc-label">On this page</div></nav>
+    <div class="tut-main">
+      <article class="prose tut-body{% if page.steps %} steps{% endif %}">
+      {{ content }}
+      </article>
+      <div class="tut-pager">
+        {% if prev_i >= 0 %}{% assign p = tutorials[prev_i] %}
+          <a class="pager prev" href="{{ p.url | relative_url }}"><small>← Previous</small><b>{{ p.card_title | default: p.title }}</b></a>
+        {% else %}<span></span>{% endif %}
+        {% if next_i < tutorials.size %}{% assign n = tutorials[next_i] %}
+          <a class="pager next" href="{{ n.url | relative_url }}"><small>Next →</small><b>{{ n.card_title | default: n.title }}</b></a>
+        {% endif %}
+      </div>
+    </div>
   </div>
 </main>
+
+<div class="lightbox" hidden><img alt=""><button type="button" aria-label="Close enlarged image">×</button></div>
+
+<script>
+(function () {
+  function track(heads, links) {
+    function update() {
+      var current = null;
+      heads.forEach(function (h) { if (h.getBoundingClientRect().top <= 120) current = h; });
+      links.forEach(function (l) { l.classList.toggle('on', !!current && l.getAttribute('href') === '#' + current.id); });
+    }
+    window.addEventListener('scroll', update, { passive: true }); update();
+  }
+  var body = document.querySelector('.tut-body');
+  if (!body) return;
+
+  // "On this page" menu from ## headings (shown only when there are 2 or more)
+  var toc = document.querySelector('.tut-toc');
+  var heads = body.querySelectorAll('h2');
+  if (heads.length >= 2) {
+    heads.forEach(function (h) {
+      var a = document.createElement('a');
+      a.href = '#' + h.id; a.textContent = h.textContent.trim();
+      toc.appendChild(a);
+    });
+    document.querySelector(".tut-layout").classList.add('has-toc');
+    track(heads, toc.querySelectorAll('a'));
+  }
+
+  // Chicago-style guide: "The Format:" / "The Example:" / "Example 1 (...)" boxes
+  body.querySelectorAll('p > strong:first-child').forEach(function (s) {
+    var label = s.textContent.trim();
+    var p = s.parentElement, next = p.nextElementSibling;
+    if (!next || next.tagName !== 'P') return;
+    if (/^The Format:?$/.test(label)) { p.classList.add('box-label'); next.classList.add('box', 'box-format'); }
+    else if (/^(The )?Example( \d+)?:?$/.test(label)) { p.classList.add('box-label'); next.classList.add('box', 'box-example'); }
+  });
+
+  // "Click Save Project." reminders become small checkpoint markers
+  body.querySelectorAll('li').forEach(function (li) {
+    if (/^Click Save Project\.?$/.test(li.textContent.trim())) li.classList.add('save');
+  });
+
+  // Click a screenshot to enlarge it (images that already link somewhere keep their link)
+  var lb = document.querySelector('.lightbox'), lbImg = lb.querySelector('img');
+  body.querySelectorAll('img').forEach(function (img) {
+    if (img.closest('a')) return;
+    img.classList.add('zoomable');
+    img.addEventListener('click', function () { lbImg.src = img.src; lb.hidden = false; });
+  });
+  function close() { lb.hidden = true; lbImg.removeAttribute('src'); }
+  lb.addEventListener('click', close);
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !lb.hidden) close(); });
+
+  // Reading progress bar
+  var bar = document.querySelector('.read-progress span');
+  function prog() {
+    var r = body.getBoundingClientRect(), h = r.height - window.innerHeight;
+    var pct = h > 0 ? Math.min(100, Math.max(0, -r.top / h * 100)) : 100;
+    bar.style.width = pct + '%';
+  }
+  window.addEventListener('scroll', prog, { passive: true }); prog();
+})();
+</script>
