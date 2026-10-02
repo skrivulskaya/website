@@ -235,11 +235,11 @@ University of Notre Dame
 
 **National Fellow,** 2025–
 
-Center for the Study of American Religion and Culture, Indiana University Indianapolis
+Center for the Study of Religion and American Culture, Indiana University Indianapolis
 
 **Young Scholars in American Religion Program,** 2023–2025
 
-Center for the Study of American Religion and Culture, Indiana University Indianapolis
+Center for the Study of Religion and American Culture, Indiana University Indianapolis
 
 **PRRI Fellowship in Religion and LGBTQ+ Rights,** 2022–2024
 
