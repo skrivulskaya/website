@@ -359,7 +359,7 @@ Mentor, Holstein Dissertation Fellowship, University of California, Riverside (2
 
 Selection Committee, Southern California Conference for Undergraduate Research (2019)
 
-Editorial Board, Journal of the Gilded Age and Progressive Era (2019–2023)
+Editorial Board, *Journal of the Gilded Age and Progressive Era* (2019–2023)
 
 Hesburgh Libraries Graduate Student Advisory Panel, University of Notre Dame (2018–2019)
 
