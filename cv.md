@@ -51,7 +51,7 @@ B.A., Theology
 
 *with* Jodi Reich, Sascha Hein, Lesley Hart, Nina Gumkowski, Elena L. Grigorenko, ["Associations Between Household Responsibilities and Academic Competencies in the Context of Education Accessibility in Zambia,"](https://doi.org/10.1016/j.lindif.2013.02.005) *Learning and Individual Differences* 27 (October 2013): 250–257.
 
-*with* Elena L. Grigorenko, Aleksandr N. Kornev, Natalia Rakhlin, ["Reading-Related Skills, Reading Achievement, and Inattention: A Correlational Study,"](https://connect.springerpub.com/content/sgrjcep/10/2/140)  *Journal of Cognitive Education and Psychology* 10, no. 2 (November 2011): 140–156.
+*with* Elena L. Grigorenko, Aleksandr N. Kornev, Natalia Rakhlin, ["Reading-Related Skills, Reading Achievement, and Inattention: A Correlational Study,"](https://connect.springerpub.com/content/sgrjcep/10/2/140) *Journal of Cognitive Education and Psychology* 10, no. 2 (November 2011): 140–156.
 
 ### Invited Essays
 
@@ -65,7 +65,7 @@ B.A., Theology
 
 ["Sex and Sexuality,"](https://global.oup.com/academic/product/the-oxford-handbook-of-christian-fundamentalism-9780198844594?cc=us&lang=en&) in *The Oxford Handbook of Christian Fundamentalism*, eds. Andrew Atherstone and David Ceri Jones (Oxford University Press, 2023).
 
-["The Crimes of Preachers: Religion, Scandal, and the Trouble with Digitized Archives,"](https://doi.org/10.1515/9783110729214-017) in *Digitised Newspapers–A New Eldorado for Historians? Tools, Methodology, Epistemology, and the Changing Practices of Writing History in the Context of Historical Newspapers Mass Digitization*, eds. Estelle Bunout, Maud Ehrmann and Frédéric Clavert (De Gruyter, 2022).
+["The Crimes of Preachers: Religion, Scandal, and the Trouble with Digitized Archives,"](https://doi.org/10.1515/9783110729214-017) in *Digitised Newspapers–A New Eldorado for Historians? Tools, Methodology, Epistemology, and the Changing Practices of Writing History in the Context of Historical Newspapers Mass Digitization*, eds. Estelle Bunout, Maud Ehrmann, and Frédéric Clavert (De Gruyter, 2022).
 
 ### Book Reviews
 
@@ -77,7 +77,7 @@ Arlin C. Migliazzo, [*Mother of Modern Evangelicalism: The Life and Legacy of He
 
 Marian E. Lindberg, [*Scandal on Plum Island: A Commander Becomes the Accused*](https://doi.org/10.17077/0003-4827.31155) (East End Press, 2020) in *The Annals of Iowa* 80, no. 1 (Winter 2021): 81–82.
 
-Gillian Frank, Bethany Moreton, and Heather R. White, eds., [*Devotions and Desires: Histories of Sexuality and Religion in the Twentieth-Century United States*](https://www.jstor.org/stable/27128521) (Chapel Hill: University of North Carolina, 2018) in *The Journal of the History of Sexuality* 29, no. 2 (May 2020): 285–288.
+Gillian Frank, Bethany Moreton, and Heather R. White, eds., [*Devotions and Desires: Histories of Sexuality and Religion in the Twentieth-Century United States*](https://www.jstor.org/stable/27128521) (University of North Carolina Press, 2018) in *Journal of the History of Sexuality* 29, no. 2 (May 2020): 285–288.
 
 John Wigger, [*PTL: The Rise and Fall of Jim and Tammy Faye Bakker's Evangelical Empire*](https://readingreligion.org/9780199379712/ptl/) (Oxford University Press, 2017) in *Reading Religion* (October 26, 2017).
 
@@ -99,7 +99,7 @@ Kathleen T. Talvacchia, Michael F. Pettinger, and Mark Larrimore, eds., [*Queer 
 
 [The American Converts Database](https://lincolnmullen.com/blog/introducing-the-american-converts-database/) (contributor).
 
-[Women and Social Movements in the U.S.](https://search.alexanderstreet.com/wass)  (contributor).
+[Women and Social Movements in the U.S.](https://search.alexanderstreet.com/wass) (contributor).
 
 ### Online Publications
 
@@ -173,7 +173,7 @@ Kate Shellnutt, ["Jerry Falwell Jr. Finally Resigns from Liberty Amid Sex Scanda
 
 **Paper,** “Sex Talk: How U.S. Fundamentalists Went from Avoiding to Addressing a Touchy Subject,” Society for U.S. Intellectual History Annual Meeting, held virtually due to COVID-19 (March 1, 2021).
 
-**Paper,** “’She Is Not Pretty and He Is Forty-Five Years Old’: The Problem of Age in Pastoral Sex Scandals of the Gilded Age and Progressive Era,” American Historical Association Annual Meeting, canceled due to COVID-19 (2021).
+**Paper,** “‘She Is Not Pretty and He Is Forty-Five Years Old’: The Problem of Age in Pastoral Sex Scandals of the Gilded Age and Progressive Era,” American Historical Association Annual Meeting, canceled due to COVID-19 (2021).
 
 **Paper,** "The Crimes of Preachers: Religion, Scandal, and the Trouble with Digitized Archives," Digitised Newspapers: A New Eldorado for Historians?, held virtually due to COVID-19 (April 22–23, 2020).
 
@@ -181,7 +181,7 @@ Kate Shellnutt, ["Jerry Falwell Jr. Finally Resigns from Liberty Amid Sex Scanda
 
 **Paper,** "Straightwashing Protestant Sex Scandals: The Tentative Queerness of Billy James Hargis, Jim Bakker, and Ted Haggard," American Society of Church History, New York, NY (January 3–6, 2020).
 
-**Paper,** "Queer Rumors: Protestants Pastors, 'Unnatural' Deeds, and Church Censure in Early Twentieth-Century United States," Queer History Conference, San Francisco State University, San Francisco, CA (June 16–18, 2019).
+**Paper,** "Queer Rumors: Protestant Pastors, 'Unnatural' Deeds, and Church Censure in Early Twentieth-Century United States," Queer History Conference, San Francisco State University, San Francisco, CA (June 16–18, 2019).
 
 **Paper,** "Visualizing Late Eighteenth-Century Maryland Catholic Slaveholding Using R Shiny," Current Research in Digital History, George Mason University, Arlington, VA (March 9, 2019).
 
@@ -189,21 +189,21 @@ Kate Shellnutt, ["Jerry Falwell Jr. Finally Resigns from Liberty Amid Sex Scanda
 
 **Paper,** "Mapping Ministerial Elopers: Using GIS and R Shiny to Track Runaway Protestant Pastors, 1870–1914," GIS Day Lightning Talk, Navari Family Center for Digital Scholarship, Hesburgh Library, University of Notre Dame, Notre Dame, IN (November 12, 2018).
 
-**Panel Organizer,** "Romance, Reverends, and Renegades: Scandal as Gilded Age History," Organization of American Historians Annual Meeting (April 12–14, 2018).
+**Panel Organizer,** "Romance, Reverends, and Renegades: Scandal as Gilded Age History," Organization of American Historians Annual Meeting, Sacramento, CA (April 12–14, 2018).
 
 **Paper,** “Reverends on the Run: Ministerial Elopement Scandals in the Gilded Age Press,” Organization of American Historians Annual Meeting, Sacramento, CA (April 12–14, 2018).
 
-**Paper,** “’A Pervert Converted’: Religion and Marriage in a Nineteenth-Century Scandal,” Ways of Knowing Conference, Harvard Divinity School, Boston, MA (October 22–24, 2015).
+**Paper,** “‘A Pervert Converted’: Religion and Marriage in a Nineteenth-Century Scandal,” Ways of Knowing Conference, Harvard Divinity School, Boston, MA (October 22–24, 2015).
 
-**Paper,** “’An Uncertain Priest’ and His Wife: Anti-Catholicism and Coverture in a Nineteenth-Century Scandal,”  Heidelberg Conference, University of Notre Dame, Notre Dame, IN (September 28–29, 2015).
+**Paper,** “‘An Uncertain Priest’ and His Wife: Anti-Catholicism and Coverture in a Nineteenth-Century Scandal,” Heidelberg Conference, University of Notre Dame, Notre Dame, IN (September 28–29, 2015).
 
-**Paper,** “’There Should Be No Discrimination’: Race and Religion in Midcentury St. Louis,” Graduate History Association Conference, Washington University in St. Louis, St. Louis, MO (October 10–11, 2014).
+**Paper,** “‘There Should Be No Discrimination’: Race and Religion in Midcentury St. Louis,” Graduate History Association Conference, Washington University in St. Louis, St. Louis, MO (October 10–11, 2014).
 
-**Paper,** “’Love Cannot Find Them’: Disappearing Ministers and Sensational Scandals in Late Nineteenth-Century America,” Religion And Sexual Revolutions Conference, John C. Danforth Center on Religion and Politics, Washington University in St. Louis, St. Louis, MO (May 9, 2014).
+**Paper,** “‘Love Cannot Find Them’: Disappearing Ministers and Sensational Scandals in Late Nineteenth-Century America,” Religion and Sexual Revolutions Conference, John C. Danforth Center on Religion and Politics, Washington University in St. Louis, St. Louis, MO (May 9, 2014).
 
 **Paper,** “From Psychopathy to Asylum: Homosexuality and Immigration, 1975–1990,” Queertopia Conference, Northwestern University, Evanston, IL (May 2–4, 2014).
 
-**Paper,** “’With All Deliberate Speed’: Progressives, Conservatives, and School Desegregation in Midcentury St. Louis,” Midwest Regional Meeting of the American Academy of Religion, Ohio Northern University, Ada, OH (April 4–6, 2014).
+**Paper,** “‘With All Deliberate Speed’: Progressives, Conservatives, and School Desegregation in Midcentury St. Louis,” Midwest Regional Meeting of the American Academy of Religion, Ohio Northern University, Ada, OH (April 4–6, 2014).
 
 ## Public Engagement
 
@@ -214,6 +214,8 @@ Kate Shellnutt, ["Jerry Falwell Jr. Finally Resigns from Liberty Amid Sex Scanda
 **Podcast Guest,** ["Disgraced: How Sex Scandals Transformed American Protestantism With Dr. Suzanna Krivulskaya,"](https://podcasts.apple.com/us/podcast/disgraced-how-sex-scandals-transformed-american-protestantism/id1078739516?i=1000709370466) *Kingdom Roots* (2025).
 
 **Webinar Panelist,** [“Politics of Gender, Pronouns, and Public Education,”](https://www.youtube.com/watch?v=P_ySG1jPows) Public Religion Research Institute (2023).
+
+**Podcast Guest,** ["Interview with Religion and Sexuality Expert Suzanna Krivulskaya,"](https://friendlyatheistpodcast.com/2023/03/30/interview-with-religious-sex-scandal-expert-suzanna-krivulskaya/) *Friendly Atheist Podcast* (2023).
 
 **Podcast Guest,** ["Protestant Sex Scandals,"](https://podcasts.apple.com/us/podcast/ep-198-protestant-sex-scandals-w-dr-suzanna-krivulskaya/id1268915829?i=1000513737043) *The Classical Ideas Podcast* (2021).
 
@@ -361,7 +363,7 @@ Mentor, Holstein Dissertation Fellowship, University of California, Riverside (2
 
 Selection Committee, Southern California Conference for Undergraduate Research (2019)
 
-Editorial Board, Journal of the Gilded Age and Progressive Era (2019–2023)
+Editorial Board, *Journal of the Gilded Age and Progressive Era* (2019–2023)
 
 Hesburgh Libraries Graduate Student Advisory Panel, University of Notre Dame (2018–2019)
 
@@ -385,11 +387,11 @@ Journal of the Gilded Age and Progressive Era
 
 Modern American History
 
+QTR: A Journal of Trans and Queer Studies in Religion
+
 Religion and American Culture: A Journal of Interpretation
 
 Teaching History: A Journal of Methods
-
-QTR: A Journal of Trans and Queer Studies in Religion
 
 ### Monographs
 
