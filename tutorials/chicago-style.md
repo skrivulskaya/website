@@ -5,6 +5,7 @@ card_title: "Chicago Style"
 permalink: /tutorials/chicago-style/
 image: /assets/img/tutorials/card-chicago-style.jpg
 order: 2
+description: "The Chicago Manual of Style, used by most historians, has specific formatting rules for all citations."
 ---
 
 ## Chicago Manual of Style Footnote Citations Guide
@@ -19,21 +20,22 @@ Below, you will find some commonly cited sources (books, articles, and newspaper
 
 ## Books
 
-[![]({{ site.baseurl }}/assets/img/tutorials/chicago-style-1.jpg)](https://global.oup.com/academic/product/this-is-our-message-9780190618933?cc=us&lang=en&)
+<figure class="anatomy" role="img" aria-label="A book footnote divided into its parts: author, italicized title, publisher and year in parentheses, and page number.">
+<div class="anat-title">Anatomy of a book footnote</div>
+<p class="anat-cite"><span class="pt c-author"><span class="txt">Emily Suzanne Johnson,</span><span class="lbl">Author</span></span><span class="pt c-title"><span class="txt"><em>This Is Our Message: Women’s Leadership in the New Christian Right</em></span><span class="lbl">Title (italicized)</span></span><span class="pt c-pub"><span class="txt">(Oxford University Press, 2019),</span><span class="lbl">Publisher, year</span></span><span class="pt c-page"><span class="txt">11.</span><span class="lbl">Page</span></span></p>
+</figure>
 
 ### First (or Only) Edition with One Author
 
 **The Format:**
 
-First Name Last Name, *Title of the Book in Italics: Some Books Also Include Subtitles\** (Name of the Press, Year of Publication), Page Number(s).
+First_Name Last_Name, *Title of the Book in Italics: Some Books Also Include Subtitles\** (Name of the Press, Year of Publication), Page Number(s).
 
 \*do not capitalize conjunctions, prepositions, etc. in titles
 
 **The Example:**
 
 Emily Suzanne Johnson, *This Is Our Message: Women's Leadership in the New Christian Right* (Oxford University Press, 2019), 11.
-
-[![]({{ site.baseurl }}/assets/img/tutorials/chicago-style-2.jpg)](https://www.hachettebookgroup.com/titles/susan-stryker/transgender-history-second-edition/9781580056908/?lens=seal-press)
 
 ### Second (or Subsequent) Edition with One Author
 
@@ -44,8 +46,6 @@ First_Name Last_Name, *Title of the Book in Italics: Some Books Also Include Sub
 **The Example:**
 
 Susan Stryker, *Transgender History: The Roots of Today's Revolution*, 2nd ed. (Seal Press, 2017), 20–21.
-
-[![]({{ site.baseurl }}/assets/img/tutorials/chicago-style-3.jpg)](https://uncpress.org/book/9781469636269/devotions-and-desires/)
 
 ### Chapter in an Edited Book
 
@@ -59,13 +59,11 @@ First_Name Last_Name, "Title of the Chapter in Quotation Marks," in *Title of th
 
 Judith Weisenfeld, "Real True Buds: Celibacy and Same-Sex Desire across the Color Line in Father Divine’s Peace Mission Movement," in *Devotions and Desires: Histories of Sexuality and Religion in the Twentieth-Century United States*, eds. Gillian Frank, Bethany Moreton, and Heather R. White (University of North Carolina Press, 2018), 90–112.
 
-[![]({{ site.baseurl }}/assets/img/tutorials/chicago-style-4.jpg)](https://www.penguinrandomhouse.com/books/55036/the-history-of-sexuality-by-michel-foucault/)
-
 ### Revised or Reprinted Edition of a Translated Book
 
 **The Format:**
 
-First_Name Last_Name,*Title of the Book: Including the Subtitle if Applicable*, rev. ed., trans. First_Name Last_Name (Name of the Press, Year of Publication), Page Number(s).
+First_Name Last_Name, *Title of the Book: Including the Subtitle if Applicable*, rev. ed., trans. First_Name Last_Name (Name of the Press, Year of Publication), Page Number(s).
 
 **The Example:**
 
@@ -73,7 +71,10 @@ Michel Foucault, *The History of Sexuality, Vol. 1: An Introduction*, rev. ed., 
 
 ## Articles
 
-[![]({{ site.baseurl }}/assets/img/tutorials/chicago-style-5.jpg)](https://www.cambridge.org/core/journals/modern-american-history/article/abs/why-religion-is-hard-for-historians-and-how-it-can-be-easier/E5C4D054604FD5D8226B73CC29B2FC51?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)
+<figure class="anatomy" role="img" aria-label="A journal article footnote divided into its parts: author, article title in quotation marks, italicized journal name, volume and issue, date in parentheses, and page range.">
+<div class="anat-title">Anatomy of a journal article footnote</div>
+<p class="anat-cite"><span class="pt c-author"><span class="txt">Kathryn Lofton,</span><span class="lbl">Author</span></span><span class="pt c-title"><span class="txt">“Why Religion Is Hard for Historians (and How It Can Be Easier),”</span><span class="lbl">Article title (in quotes)</span></span><span class="pt c-pub"><span class="txt"><em>Modern American History</em></span><span class="lbl">Journal (italicized)</span></span><span class="pt c-vol"><span class="txt">3, no. 1</span><span class="lbl">Volume, issue</span></span><span class="pt c-date"><span class="txt">(March 2020):</span><span class="lbl">Date</span></span><span class="pt c-page"><span class="txt">69–86.</span><span class="lbl">Pages</span></span></p>
+</figure>
 
 ### Academic Journal Articles
 
@@ -83,11 +84,14 @@ First_Name Last_Name, "Title of the Article: Most Journal Articles Include Subti
 
 **The Example:**
 
-Kathryn Lofton, “Why Religion Is Hard For Historians (and How It Can Be Easier),” *Modern American History* 3, no. 1 (March 2020): 69–86.
-
-![]({{ site.baseurl }}/assets/img/tutorials/chicago-style-6.gif)
+Kathryn Lofton, “Why Religion Is Hard for Historians (and How It Can Be Easier),” *Modern American History* 3, no. 1 (March 2020): 69–86.
 
 ### Magazine or Newspaper Articles
+
+<figure class="anatomy" role="img" aria-label="A newspaper article footnote divided into its parts: headline in quotation marks, italicized newspaper name, date, and page number.">
+<div class="anat-title">Anatomy of a newspaper article footnote</div>
+<p class="anat-cite"><span class="pt c-title"><span class="txt">“The Church Scandal: Further Particulars of the Cooke-Johnston Case,”</span><span class="lbl">Headline (no author listed)</span></span><span class="pt c-pub"><span class="txt"><em>New York Times</em>,</span><span class="lbl">Newspaper (italicized)</span></span><span class="pt c-date"><span class="txt">Jan. 12, 1870,</span><span class="lbl">Date</span></span><span class="pt c-page"><span class="txt">8.</span><span class="lbl">Page</span></span></p>
+</figure>
 
 **The Format:**
 

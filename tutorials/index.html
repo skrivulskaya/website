@@ -4,13 +4,19 @@ title: Tutorials
 permalink: /tutorials/
 wide: true
 ---
-{% comment %}Cards are built automatically from the pages in this folder, sorted by their "order" number.{% endcomment %}
+{% comment %}Cards are built automatically from the pages in this folder, sorted by their "order" number. The short text on each card is the "description" line at the top of each tutorial file.{% endcomment %}
 {% assign tutorials = site.pages | where: "layout", "tutorial" | sort: "order" %}
 <div class="tut-grid">
   {% for t in tutorials %}
+  {% assign words = t.content | strip_html | number_of_words %}
+  {% assign minutes = words | divided_by: 200 | plus: 1 %}
   <a class="tut" href="{{ t.url | relative_url }}">
     <div class="thumb"><img src="{{ t.image | relative_url }}" alt="" loading="lazy"></div>
-    <b>{{ t.card_title | default: t.title }}</b>
+    <span class="tut-text">
+      <b>{{ t.card_title | default: t.title }}</b>
+      {% if t.description %}<span class="desc">{{ t.description }}</span>{% endif %}
+      <span class="tut-info"><span>{{ minutes }} min read</span>{% if t.audience %}<span class="chip">{{ t.audience }}</span>{% endif %}</span>
+    </span>
   </a>
   {% endfor %}
 </div>

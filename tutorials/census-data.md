@@ -5,11 +5,13 @@ card_title: "Census Data"
 permalink: /tutorials/census-data/
 image: /assets/img/tutorials/card-census-data.jpg
 order: 1
+description: "What if you wanted to look at large-scale state, county, or city-level data to track change over time?"
+steps: true
 ---
 
 ## Locating and Exporting Historical Census Data
 
-Commercial record collection websites like [FamilySearch](https://www.familysearch.org/en/) and [Ancestry](https://www.ancestry.com/) will let users explore individual census records (up until the year 1940 as of 2021), but what if you wanted to look at large-scale state, county, or city-level data to track change over time? Many historians have created such datasets for their own projects, and you could borrow from (and cite) their work. Here are just two examples: [Urban Transition Historical GIS Project](https://s4.ad.brown.edu/Projects/UTP2/DataS.htm) and [Placing Segregation](http://dsps.lib.uiowa.edu/placingsegregation/downloads/). But what if you wanted to do research on a topic that doesn't have a pre-made dataset? This is possible with [IPUMS National Historical Geographic Information System (NHGIS)](https://www.nhgis.org/), which provides free access to census statistics and GIS shape files from 1790 to the present.
+Commercial record collection websites like [FamilySearch](https://www.familysearch.org/en/) and [Ancestry](https://www.ancestry.com/) will let users explore individual census records (up through 1950, the most recent census released to the public), but what if you wanted to look at large-scale state, county, or city-level data to track change over time? Many historians have created such datasets for their own projects, and you could borrow from (and cite) their work. Here are just two examples: [Urban Transition Historical GIS Project](https://s4.ad.brown.edu/Projects/UTP2/DataS.htm) and [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/data). But what if you wanted to do research on a topic that doesn't have a pre-made dataset? This is possible with [IPUMS National Historical Geographic Information System (NHGIS)](https://www.nhgis.org/), which provides free access to census statistics and GIS shape files from 1790 to the present.
 
 1.  Create an [account](https://uma.pop.umn.edu/nhgis/user/new) with IPUMS NHGIS (it's free but required to request, extract, and download data from the site).
 
@@ -19,7 +21,7 @@ Commercial record collection websites like [FamilySearch](https://www.familysear
 
 Let's try an example export. Suppose that I was interested in studying the racial composition of the city of San Diego during the Gilded Age and Progressive Era (let's say 1880 through 1920). Here is how I would proceed... and what challenges I would encounter.
 
-- Under, Apply Filters, I click on **Geographic Levels** and the menu that pops up presents a number of (overwhelming) choices.
+- Under **Apply Filters**, I click on **Geographic Levels** and the menu that pops up presents a number of (overwhelming) choices.
 
 ![]({{ site.baseurl }}/assets/img/tutorials/census-data-1.png)
 

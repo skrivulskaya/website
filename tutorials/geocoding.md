@@ -5,27 +5,30 @@ card_title: "Geocoding"
 permalink: /tutorials/geocoding/
 image: /assets/img/tutorials/card-geocoding.png
 order: 3
+description: "If you have a list of places, and you need to find their latitude/longitude coordinates, you have a couple of options."
 ---
 
 ![]({{ site.baseurl }}/assets/img/tutorials/geocoding-1.png)
 
 If you have a list of places, and you need to find their latitude/longitude coordinates, you have a couple of options.
 
-OPTION 1. The first and more convoluted (but ultimately worthwhile) option is to [get a Google API key](https://developers.google.com/maps/documentation/javascript/get-api-key) from the free tier of the [Google Cloud Platform](https://cloud.google.com/free/), install [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/), and then use [this tutorial](https://www.storybench.org/geocode-csv-addresses-r/) to work with the "[ggmap](https://github.com/dkahle/ggmap)" R package. I would also recommend watching [this YouTube tutorial](https://www.youtube.com/watch?v=A7LzEJiKQvc) to fill in some gaps in the first tutorial. 
+OPTION 1. The first and more convoluted (but ultimately worthwhile) option is to [get a Google API key](https://developers.google.com/maps/documentation/javascript/get-api-key) from the free tier of the [Google Cloud Platform](https://cloud.google.com/free/), install [R](https://www.r-project.org/) and [RStudio](https://posit.co/download/rstudio-desktop/), and then use [this tutorial](https://www.storybench.org/geocode-csv-addresses-r/) to work with the "[ggmap](https://github.com/dkahle/ggmap)" R package. I would also recommend watching [this YouTube tutorial](https://www.youtube.com/watch?v=A7LzEJiKQvc) to fill in some gaps in the first tutorial. 
+{: .option}
 
 OPTION 2. Assuming you don't want to learn a new programming language and deal with Google's developer code, here is an alternative:
+{: .option}
 
 1.  Go to <https://www.gpsvisualizer.com/geocoder/> and read about the service (including its limitations and having to potentially double-check/clean up the results).
 
-2.  Get an API key from **MapQuest**. 
+2.  Get a free API key from **Microsoft Azure Maps** (GPS Visualizer no longer works with MapQuest, and Google's terms don't allow the text results this tutorial relies on).
 
-    - Go to <https://developer.mapquest.com/>.
+    - Create a free [Microsoft Azure](https://azure.microsoft.com/en-us/products/azure-maps) account (Microsoft will ask for a credit card to verify your identity).
 
-    - Click on **Get Started** and complete registration for a free account.
+    - In the Azure portal, click **+ Create a resource**, search for **Azure Maps**, and click **Create**. Create a new **Resource Group** if none is listed, give your instance a name, choose a region, select the **Gen2** pricing tier, and click through to **Create**.
 
-    - Once registered, go to <https://developer.mapquest.com/user/me/profile> and find your API key (note that it may take up to an hour for the system to process your request and generate your key).
+    - Once it's deployed, click **Go to resource**, then **View authentication**, and copy your key. GPS Visualizer has [step-by-step instructions with screenshots](https://www.gpsvisualizer.com/misc/api_key.html) if you get stuck.
 
-3.  Copy your API key from MapQuest and paste it into the **Your MapQuest AppKey** field on the [GPS Visualizer](https://www.gpsvisualizer.com/geocoder/) website. 
+3.  On the [GPS Visualizer](https://www.gpsvisualizer.com/geocoder/) geocoder page, select **Azure Maps** as the source and paste your key into the **Your Azure Maps API key** field.
 
 4.  Next, open the .csv file that contains your data. For this tutorial, I am using the "city" and "state" columns from [Lincoln Mullen](https://lincolnmullen.com/)'s "[early-colleges.csv](https://github.com/ropensci/historydata/blob/master/data-raw/early-colleges.csv)" file.
 

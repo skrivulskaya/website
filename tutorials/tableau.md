@@ -5,17 +5,19 @@ card_title: "Tableau"
 permalink: /tutorials/tableau/
 image: /assets/img/tutorials/card-tableau.png
 order: 5
+description: "You have two options for displaying your visualizations: interactive embeddable Tableau Public charts or static high-resolution images."
+steps: true
 ---
 
 [![]({{ site.baseurl }}/assets/img/tutorials/tableau-1.png)](https://www.tableau.com/)
 
 ## Exporting Tableau Visualizations
 
-So you have downloaded the free trial version of [Tableau](https://www.tableau.com/academic/students) and created beautiful visualizations. You have two options for displaying your visualizations: interactive embeddable Tableau Public charts or static high-resolution images.
+So you have downloaded [Tableau Desktop: Public Edition](https://www.tableau.com/academic/students)—which Tableau now offers to students for free, with no trial period, license key, or renewal—and created beautiful visualizations. You have two options for displaying your visualizations: interactive embeddable Tableau Public charts or static high-resolution images.
 
 ## Tableau Public
 
-[Tableau Public](https://public.tableau.com/en-us/s/) has a free tier that comes with some limitations but allows smaller datasets to be displayed interactively as long as you do not mind making your data available to the public. You'll need to register for a Tableau Public account and download the standalone app in addition to the Tableau Desktop app that you might already have. Running your data sets through the Tableau Public app will publish them to your account and give you embeddable, interactive versions of your visualizations, like this dashboard of 2 interactive maps of San Bernardino and Riverside counties (hovering over tract subdivisions will show you relevant data).
+[Tableau Public](https://public.tableau.com/app/discover) is free and comes with some limitations but allows smaller datasets to be displayed interactively as long as you do not mind making your data available to the public. You'll need a free Tableau Public account (the same one you use to download Tableau Desktop: Public Edition). You can save your workbooks on your own computer as you work, and publishing a workbook to your Tableau Public profile will give you embeddable, interactive versions of your visualizations, like this dashboard of 2 interactive maps of San Bernardino and Riverside counties (hovering over tract subdivisions will show you relevant data).
 
 <div class="embed"><iframe src="https://public.tableau.com/shared/Q78223Y77?:embed=y&amp;:showVizHome=no&amp;:toolbar=yes&amp;:display_count=yes" title="Tableau Public dashboard" loading="lazy"></iframe></div>
 
@@ -23,9 +25,9 @@ So you have downloaded the free trial version of [Tableau](https://www.tableau.c
 
 If all you need are static high-resolution images that you can then present on your website or in academic publications, follow these steps:
 
-- Go to [CSUSM's IITS page](https://www.csusm.edu/iits/iitsforyou/adobe/download-adobe/index.html) to install the Adobe Creative Cloud (note that you only need to install **Acrobat DC**, not any of the other applications available in the Cloud suite, so you can unselect everything else when given the option).
+- Go to [CSUSM's IITS page](https://www.csusm.edu/iits/iitsforyou/adobe/download-adobe/index.html) to install the Adobe Creative Cloud (note that you only need to install **Acrobat**, not any of the other applications available in the Cloud suite, so you can unselect everything else when given the option).
 
-- In **Tableau Desktop**, right-click anywhere on the visualization you would like to export and select **Copy → Image**.
+- In **Tableau**, right-click anywhere on the visualization you would like to export and select **Copy → Image**.
 
 ![]({{ site.baseurl }}/assets/img/tutorials/tableau-2.jpg)
 
@@ -37,7 +39,7 @@ If all you need are static high-resolution images that you can then present on y
 
 ![]({{ site.baseurl }}/assets/img/tutorials/tableau-4.jpg)
 
-- To export what you see as a high-resolution image, click **File → Export To → Image → TIFF** (or PNG if using with Weebly or Wix).
+- To export what you see as a high-resolution image, click **File → Export To → Image → TIFF** (or PNG if you plan to post the image online).
 
 ![]({{ site.baseurl }}/assets/img/tutorials/tableau-5.jpg)
 

@@ -5,9 +5,13 @@ card_title: "QGIS"
 permalink: /tutorials/qgis/
 image: /assets/img/tutorials/card-qgis.png
 order: 6
+description: "Use the software to map some historical data and to georeference a historical map to display that data on."
+audience: "HIST 502 · CSUSM"
+steps: true
 ---
 
 *Note: This tutorial is specifically for HIST 502 students at California State University San Marcos. It borrows heavily from the expertise of Dr. Jeffrey Charles and from* [*Dr. Fred Gibbs's tutorials*](http://fredgibbs.net/tutorials/)*.*
+{: .note}
 
 Now that you've watched the first half of [Klas Karlsson's tutorial](https://youtu.be/kCnNWyl9qSE) and gotten a bit familiar with QGIS, we are going to use the software to map some historical data and to georeference a historical map to display that data on.
 
@@ -33,7 +37,7 @@ Now that you've watched the first half of [Klas Karlsson's tutorial](https://you
 
 ![]({{ site.baseurl }}/assets/img/tutorials/qgis-3.jpg)
 
-- Let's also actually look at the data we've imported to understand what kind of information we have beyond just the county/territory boundaries. To see the data, right-click on you 1870 Census layer again and select **Open Attribute Table**. In the table, you'll see a number of useful columns, such as the names of the territories in the NHGISNAM column (3rd column from the left) and, if you move all the way to the end of the columns, the POP_TOTAL column (3rd from the right/end), which gives us the number of residents in that county/territory. Another really important column is called GISJOIN—each county/territory in the dataset has a specific code that allows us to join other kinds of data to this file using this unique identifier column.
+- Let's also actually look at the data we've imported to understand what kind of information we have beyond just the county/territory boundaries. To see the data, right-click on your 1870 Census layer again and select **Open Attribute Table**. In the table, you'll see a number of useful columns, such as the names of the territories in the NHGISNAM column (3rd column from the left) and, if you move all the way to the end of the columns, the POP_TOTAL column (3rd from the right/end), which gives us the number of residents in that county/territory. Another really important column is called GISJOIN—each county/territory in the dataset has a specific code that allows us to join other kinds of data to this file using this unique identifier column.
 
 - For now, let's visualize that POP_TOTAL column on our map. To do so, let's get into the layer's Properties. There are two ways to do that: you can once again right-click on your 1870 Census layer and select **Properties** or you can simply double-click on the layer. Either way, you will see the **Symbology** properties pop up with **Single Symbol** selected at the top. Click on the menu arrow to the right of **Single Symbol** and select **Graduated**.
 
@@ -61,7 +65,7 @@ Now that you've watched the first half of [Klas Karlsson's tutorial](https://you
 
 - Click **Save Project**.
 
-- That new view is great, but what if wanted to be able to see some of the base map under our 1870 Census layer? To do so, we'll adjust the layer's transparency settings. Let's go back into the 1870 Census layer **Properties** (double-click or right-click and select **Properties**), select **Symbology**, and at the very bottom, you should see **Layer Rendering** just above the Help/Style/Apply buttons. Click the arrow next to **Layer Rendering** to expand that sub-menu and set the **Opacity** slider to 50% (you can do so manually or by typing in 50 to the right of the slider). Click **OK**.
+- That new view is great, but what if we wanted to be able to see some of the base map under our 1870 Census layer? To do so, we'll adjust the layer's transparency settings. Let's go back into the 1870 Census layer **Properties** (double-click or right-click and select **Properties**), select **Symbology**, and at the very bottom, you should see **Layer Rendering** just above the Help/Style/Apply buttons. Click the arrow next to **Layer Rendering** to expand that sub-menu and set the **Opacity** slider to 50% (you can do so manually or by typing in 50 to the right of the slider). Click **OK**.
 
 ![]({{ site.baseurl }}/assets/img/tutorials/qgis-8.jpg)
 
@@ -159,7 +163,7 @@ Now that you've watched the first half of [Klas Karlsson's tutorial](https://you
 
 ![]({{ site.baseurl }}/assets/img/tutorials/qgis-16.jpg)
 
-- QGIS named the new georeferenced image "0358021_modified," and I'll want adjust that layer's transparency. Go to the layer's **Properties** and select **Transparency** in the right-hand menu column. Change **Global opacity** to about 60%, which should let you see all of your layers together, assuming you have turned the 1870 Census layer's visibility back on.
+- QGIS named the new georeferenced image "0358021_modified," and I'll want to adjust that layer's transparency. Go to the layer's **Properties** and select **Transparency** in the right-hand menu column. Change **Global opacity** to about 60%, which should let you see all of your layers together, assuming you have turned the 1870 Census layer's visibility back on.
 
 - Let's do just a couple more things to make the map prettier. Let's turn off the visibility of the **OpenStreetMap** layer, since we (sort of) have a good map background now to see our census/railroad data on. And let's change the colors of the total population graduated symbology in the 1870 Census layer to blue, since the red scale interferes with the pinks and reds in our historical map. go to 1870 Census layer's **Properties**, select **Symbology**, and under **Color ramp** navigate to **Blues**. Under Layer rendering, bring **Opacity** up to about 80%. Click **OK**.
 
