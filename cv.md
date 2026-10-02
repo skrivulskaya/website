@@ -85,66 +85,6 @@ Heath Carter and Laura Porter, eds., [*Turning Points in the History of American
 
 Kathleen T. Talvacchia, Michael F. Pettinger, and Mark Larrimore, eds., [*Queer Christianities: Lived Religion in Transgressive Forms*](https://readingreligion.org/9781479896028/queer-christianities/) (New York University Press, 2015) in *Reading Religion* (May 20, 2016).
 
-## Digital & Public History
-
-### Scholarly Contributions
-
-[The Palace of Thundering Gods](https://www.americanyawp.com/projects/the-palace-of-thundering-gods/) (contributor).
-
-[The American Yawp: A Massively Collaborative Open U.S. Textbook](https://www.americanyawp.com/) (contributor).
-
-[Catholic Enslavers in the Early Republic](https://suzannakrivulskaya.shinyapps.io/badinapp/) (co-creator *with* Rachel Bohlmann).
-
-[Mapping Ministerial Elopements in the Gilded Age and Progressive Era](https://suzannakrivulskaya.shinyapps.io/ministerial-elopements/) (creator).
-
-[The American Converts Database](https://lincolnmullen.com/blog/introducing-the-american-converts-database/) (contributor).
-
-[Women and Social Movements in the U.S.](https://search.alexanderstreet.com/wass) (contributor).
-
-### Online Publications
-
-["How to Monetize Your Sex Scandal: A Guide for Disgraced Pastors,"](https://therevealer.org/how-to-monetize-your-sex-scandal-a-guide-for-disgraced-pastors/) *The Revealer* (August 5, 2025).
-
-[“‘The Lord Told Me It’s Flat None of Your Business’: Jimmy Swaggart’s Scandalous Legacy,”](https://religiondispatches.org/the-lord-told-me-its-flat-none-of-your-business-jimmy-swaggarts-scandalous-legacy/) *Religion Dispatches* (July 2, 2025).
-
-*with* Kelsy Burke, Joanna Wuest, and Andrew Flores, [“Republicans are Mostly United in Their Views on LGBTQ+ Rights. Democrats are Not.,”](https://www.lgbtqnation.com/2024/10/republicans-are-mostly-united-in-their-views-on-lgbtq-rights-democrats-are-not/) *LGBTQ Nation* (October 20, 2024).
-
-*with* Andrew Flores, Kelsy Burke, and Joanna Wuest, ["LGBTQ Rights vs. Religious Liberty Cases: Public Opinion and the Law,"](https://www.prri.org/spotlight/lgbtq-rights-vs-religious-liberty-cases-public-opinion-and-the-law/) *PRRI Spotlight* (September 19, 2024).
-
-["Review: Coming Out Republican, A History of the Gay Right,"](https://usreligion.substack.com/p/review-coming-out-republican-a-history) *Religion in United States History* (May 6, 2024).
-
-*with* Andrew Flores, Kelsy Burke, and Joanna Wuest, ["LGBT Adults Remain Hopeful for the Future of LGBT People in the US,"](https://medium.com/3streams/lgbt-adults-remain-hopeful-for-the-future-of-lgbt-people-in-the-us-462eb2652622) *3Streams* (April 30, 2024).
-
-["Mainline Protestant Clergy’s Support for LGBTQ+ Rights Has Grown,"](https://www.prri.org/spotlight/protection-from-discrimination-or-the-right-to-discriminate-changing-public-perceptions-of-lgbtq-rights-and-religious-freedom-2/) *PRRI Spotlight* (December 21, 2023).
-
-*with* Andrew Flores, Kelsy Burke, and Tyler Lefevor, ["Comparing Views of LGBT Adults to Those of the General Public,"](https://www.prri.org/spotlight/comparing-views-of-lgbt-adults-to-those-of-the-general-public/) *PRRI Spotlight* (September 15, 2023).
-
-*with* Kelsy Burke, Andrew Flores, and Tyler Lefevor, ["LGBTQ+ Americans Are More Religious Than Our Supreme Court Battles Let on,"](https://religionnews.com/2023/07/07/lgbtq-americans-are-more-religious-than-our-supreme-court-battles-let-on/) *Religion News Service* (July 7, 2023).
-
-["Perceptions of Anti-Transgender Discrimination Amid the Deluge of Anti-Transgender Legislation,"](https://www.prri.org/spotlight/perceptions-of-anti-transgender-discrimination-amid-the-deluge-of-anti-transgender-legislation/) *PRRI Spotlight* (March 3, 2023).
-
-["Bad Preachers' Wives,"](https://religionandpolitics.org/2023/01/10/bad-preachers-wives/) *Religion & Politics* (January 10, 2023).
-
-["The Diminishing Importance of Personal Morality in Politics, 2011–2020,"](https://www.prri.org/spotlight/the-diminishing-importance-of-personal-morality-in-politics-2011-2020/) *PRRI Spotlight* (November 21, 2022).
-
-["A History of Sex Abuse in the Protestant Imagination,"](https://therevealer.org/a-history-of-sex-abuse-in-the-protestant-imagination/) *The Revealer* (March 2, 2020).
-
-["Jennifer Knapp and Me: Coming out While Evangelical,"](https://religiondispatches.org/jennifer-knapp-and-me-coming-out-while-evangelical/) *Religion Dispatches* (June 23, 2017).
-
-["Unholy Sundays,"](https://faithlead.org/blog/unholy-sundays/) *Luther Seminary Center for Stewardship Leaders* (September 2, 2016).
-
-["'Jesus, Don’t Let Me Die Before I’ve Had Sex': A New Documentary,"](https://usreligion.blogspot.com/2016/04/jesus-dont-let-me-die-before-ive-had.html) *Religion in American History* (April 16, 2016).
-
-### Media Mentions
-
-Daniel Silliman, ["Died: Jimmy Swaggart, TV Minister Caught in Scandal,"](https://www.christianitytoday.com/2025/07/died-televangelist-jimmy-swaggart/) *Christianity Today* (July 1, 2025).
-
-Paul Sisson, ["San Diego Nazarene Pastor Fired for Same-sex Marriage Stance,"](https://www.sandiegouniontribune.com/2023/08/18/san-diego-nazarene-pastor-fired-for-same-sex-marriage-stance/) *San Diego Union-Tribune* (August 18, 2023).
-
-Audrey Clare Farley, ["The Post-Trump Crack-Up of the Evangelical Community,"](https://newrepublic.com/article/161719/trump-capitol-riot-evangelical-community) *The New Republic* (March 16, 2021).
-
-Kate Shellnutt, ["Jerry Falwell Jr. Finally Resigns from Liberty Amid Sex Scandal,"](https://www.christianitytoday.com/news/2020/august/jerry-falwell-jr-resigns-liberty-university-affair-scandal.html) *Christianity Today* (August 25, 2020).
-
 ## Academic Presentations
 
 **Chair,** “Haunting Histories: Ghosts, Spirits, and the Utility and Ethics of Repurposing the Dead,” American Historical Association Annual Meeting, New Orleans, LA (January 10, 2027).
@@ -204,6 +144,66 @@ Kate Shellnutt, ["Jerry Falwell Jr. Finally Resigns from Liberty Amid Sex Scanda
 **Paper,** “From Psychopathy to Asylum: Homosexuality and Immigration, 1975–1990,” Queertopia Conference, Northwestern University, Evanston, IL (May 2–4, 2014).
 
 **Paper,** “‘With All Deliberate Speed’: Progressives, Conservatives, and School Desegregation in Midcentury St. Louis,” Midwest Regional Meeting of the American Academy of Religion, Ohio Northern University, Ada, OH (April 4–6, 2014).
+
+## Digital & Public History
+
+### Scholarly Contributions
+
+[The Palace of Thundering Gods](https://www.americanyawp.com/projects/the-palace-of-thundering-gods/) (contributor).
+
+[The American Yawp: A Massively Collaborative Open U.S. Textbook](https://www.americanyawp.com/) (contributor).
+
+[Catholic Enslavers in the Early Republic](https://suzannakrivulskaya.shinyapps.io/badinapp/) (co-creator *with* Rachel Bohlmann).
+
+[Mapping Ministerial Elopements in the Gilded Age and Progressive Era](https://suzannakrivulskaya.shinyapps.io/ministerial-elopements/) (creator).
+
+[The American Converts Database](https://lincolnmullen.com/blog/introducing-the-american-converts-database/) (contributor).
+
+[Women and Social Movements in the U.S.](https://search.alexanderstreet.com/wass) (contributor).
+
+### Online Publications
+
+["How to Monetize Your Sex Scandal: A Guide for Disgraced Pastors,"](https://therevealer.org/how-to-monetize-your-sex-scandal-a-guide-for-disgraced-pastors/) *The Revealer* (August 5, 2025).
+
+[“‘The Lord Told Me It’s Flat None of Your Business’: Jimmy Swaggart’s Scandalous Legacy,”](https://religiondispatches.org/the-lord-told-me-its-flat-none-of-your-business-jimmy-swaggarts-scandalous-legacy/) *Religion Dispatches* (July 2, 2025).
+
+*with* Kelsy Burke, Joanna Wuest, and Andrew Flores, [“Republicans are Mostly United in Their Views on LGBTQ+ Rights. Democrats are Not.,”](https://www.lgbtqnation.com/2024/10/republicans-are-mostly-united-in-their-views-on-lgbtq-rights-democrats-are-not/) *LGBTQ Nation* (October 20, 2024).
+
+*with* Andrew Flores, Kelsy Burke, and Joanna Wuest, ["LGBTQ Rights vs. Religious Liberty Cases: Public Opinion and the Law,"](https://www.prri.org/spotlight/lgbtq-rights-vs-religious-liberty-cases-public-opinion-and-the-law/) *PRRI Spotlight* (September 19, 2024).
+
+["Review: Coming Out Republican, A History of the Gay Right,"](https://usreligion.substack.com/p/review-coming-out-republican-a-history) *Religion in United States History* (May 6, 2024).
+
+*with* Andrew Flores, Kelsy Burke, and Joanna Wuest, ["LGBT Adults Remain Hopeful for the Future of LGBT People in the US,"](https://medium.com/3streams/lgbt-adults-remain-hopeful-for-the-future-of-lgbt-people-in-the-us-462eb2652622) *3Streams* (April 30, 2024).
+
+["Mainline Protestant Clergy’s Support for LGBTQ+ Rights Has Grown,"](https://www.prri.org/spotlight/protection-from-discrimination-or-the-right-to-discriminate-changing-public-perceptions-of-lgbtq-rights-and-religious-freedom-2/) *PRRI Spotlight* (December 21, 2023).
+
+*with* Andrew Flores, Kelsy Burke, and Tyler Lefevor, ["Comparing Views of LGBT Adults to Those of the General Public,"](https://www.prri.org/spotlight/comparing-views-of-lgbt-adults-to-those-of-the-general-public/) *PRRI Spotlight* (September 15, 2023).
+
+*with* Kelsy Burke, Andrew Flores, and Tyler Lefevor, ["LGBTQ+ Americans Are More Religious Than Our Supreme Court Battles Let on,"](https://religionnews.com/2023/07/07/lgbtq-americans-are-more-religious-than-our-supreme-court-battles-let-on/) *Religion News Service* (July 7, 2023).
+
+["Perceptions of Anti-Transgender Discrimination Amid the Deluge of Anti-Transgender Legislation,"](https://www.prri.org/spotlight/perceptions-of-anti-transgender-discrimination-amid-the-deluge-of-anti-transgender-legislation/) *PRRI Spotlight* (March 3, 2023).
+
+["Bad Preachers' Wives,"](https://religionandpolitics.org/2023/01/10/bad-preachers-wives/) *Religion & Politics* (January 10, 2023).
+
+["The Diminishing Importance of Personal Morality in Politics, 2011–2020,"](https://www.prri.org/spotlight/the-diminishing-importance-of-personal-morality-in-politics-2011-2020/) *PRRI Spotlight* (November 21, 2022).
+
+["A History of Sex Abuse in the Protestant Imagination,"](https://therevealer.org/a-history-of-sex-abuse-in-the-protestant-imagination/) *The Revealer* (March 2, 2020).
+
+["Jennifer Knapp and Me: Coming out While Evangelical,"](https://religiondispatches.org/jennifer-knapp-and-me-coming-out-while-evangelical/) *Religion Dispatches* (June 23, 2017).
+
+["Unholy Sundays,"](https://faithlead.org/blog/unholy-sundays/) *Luther Seminary Center for Stewardship Leaders* (September 2, 2016).
+
+["'Jesus, Don’t Let Me Die Before I’ve Had Sex': A New Documentary,"](https://usreligion.blogspot.com/2016/04/jesus-dont-let-me-die-before-ive-had.html) *Religion in American History* (April 16, 2016).
+
+### Media Mentions
+
+Daniel Silliman, ["Died: Jimmy Swaggart, TV Minister Caught in Scandal,"](https://www.christianitytoday.com/2025/07/died-televangelist-jimmy-swaggart/) *Christianity Today* (July 1, 2025).
+
+Paul Sisson, ["San Diego Nazarene Pastor Fired for Same-sex Marriage Stance,"](https://www.sandiegouniontribune.com/2023/08/18/san-diego-nazarene-pastor-fired-for-same-sex-marriage-stance/) *San Diego Union-Tribune* (August 18, 2023).
+
+Audrey Clare Farley, ["The Post-Trump Crack-Up of the Evangelical Community,"](https://newrepublic.com/article/161719/trump-capitol-riot-evangelical-community) *The New Republic* (March 16, 2021).
+
+Kate Shellnutt, ["Jerry Falwell Jr. Finally Resigns from Liberty Amid Sex Scandal,"](https://www.christianitytoday.com/news/2020/august/jerry-falwell-jr-resigns-liberty-university-affair-scandal.html) *Christianity Today* (August 25, 2020).
 
 ## Public Engagement
 
