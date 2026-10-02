@@ -61,7 +61,7 @@ B.A., Theology
 
 ### Book Chapters
 
-"Sexuality," in *The Routledge History of Evangelical Christianity in America*, eds. Darren Dochuk and Ian Van Dyke (Routledge, 2026).
+"Sexuality," in [*The Routledge History of Evangelical Christianity in America*](https://www.routledge.com/The-Routledge-History-of-Evangelical-Christianity-in-America/Dochuk-VanDyke/p/book/9781032695723), eds. Darren Dochuk and Ian Van Dyke (Routledge, 2026).
 
 ["Sex and Sexuality,"](https://global.oup.com/academic/product/the-oxford-handbook-of-christian-fundamentalism-9780198844594?cc=us&lang=en&) in *The Oxford Handbook of Christian Fundamentalism*, eds. Andrew Atherstone and David Ceri Jones (Oxford University Press, 2023).
 
@@ -90,8 +90,6 @@ Kathleen T. Talvacchia, Michael F. Pettinger, and Mark Larrimore, eds., [*Queer 
 ### Scholarly Contributions
 
 [The Palace of Thundering Gods](https://www.americanyawp.com/projects/the-palace-of-thundering-gods/) (contributor).
-
-[Politics of Gender, Pronouns, and Public Education](https://www.youtube.com/watch?v=P_ySG1jPows) (webinar panelist).
 
 [The American Yawp: A Massively Collaborative Open U.S. Textbook](https://www.americanyawp.com/) (contributor).
 
@@ -137,22 +135,6 @@ Kathleen T. Talvacchia, Michael F. Pettinger, and Mark Larrimore, eds., [*Queer 
 
 ["'Jesus, Don’t Let Me Die Before I’ve Had Sex': A New Documentary,"](https://usreligion.blogspot.com/2016/04/jesus-dont-let-me-die-before-ive-had.html) *Religion in American History* (April 16, 2016).
 
-### Podcast Appearances
-
-["Protestant Sex Scandals in America,"](https://podcasts.apple.com/us/podcast/protestant-sex-scandals-in-america/id1497578518?i=1000719849325) The Revealer (2025).
-
-["Disgraced: How Sex Scandals Transformed American Protestantism With Dr. Suzanna Krivulskaya,"](https://podcasts.apple.com/us/podcast/disgraced-how-sex-scandals-transformed-american-protestantism/id1078739516?i=1000709370466) Kingdom Roots (2025).
-
-["Interview with Religion and Sexuality Expert Suzanna Krivulskaya,"](https://friendlyatheistpodcast.com/2023/03/30/interview-with-religious-sex-scandal-expert-suzanna-krivulskaya/) Friendly Atheist Podcast (2023).
-
-["I May Look Like a Tired Teenage Boy, but Trust Me: I’m an Aging Gay Man Inside,"](https://podcasts.apple.com/au/podcast/i-may-look-like-a-tired-teenage-boy-but-trust-me-im/id1475184480?i=1000580620456) Historians on Housewives (2022).
-
-["Protestant Sex Scandals,"](https://podcasts.apple.com/us/podcast/ep-198-protestant-sex-scandals-w-dr-suzanna-krivulskaya/id1268915829?i=1000513737043) The Classical Ideas Podcast (2021).
-
-["There Won't Be Trumpets - Anyone Can Whistle,"](https://puttingittogether.transistor.fm/s4/3) Putting It Together: The Music of Stephen Sondheim (2019).
-
-["Ministerial Sex Scandal,"](https://www.listennotes.com/podcasts/ten-minute-history/suzanna-krivulskaya-ypuERt-QY4i/) Ten Minute History (2019).
-
 ### Media Mentions
 
 Daniel Silliman, ["Died: Jimmy Swaggart, TV Minister Caught in Scandal,"](https://www.christianitytoday.com/2025/07/died-televangelist-jimmy-swaggart/) *Christianity Today* (July 1, 2025).
@@ -163,67 +145,79 @@ Audrey Clare Farley, ["The Post-Trump Crack-Up of the Evangelical Community,"](h
 
 Kate Shellnutt, ["Jerry Falwell Jr. Finally Resigns from Liberty Amid Sex Scandal,"](https://www.christianitytoday.com/news/2020/august/jerry-falwell-jr-resigns-liberty-university-affair-scandal.html) *Christianity Today* (August 25, 2020).
 
-## Professional Presentations
+## Academic Presentations
 
-### Invited Talks
+**Chair,** “Haunting Histories: Ghosts, Spirits, and the Utility and Ethics of Repurposing the Dead,” American Historical Association Annual Meeting, New Orleans, LA (January 10, 2027).
 
-Keynote address, Religion and Sexual Abuse Project Conference, University of California, Riverside (May 30–31, 2025).
+**Panelist,** “A Conversation with Jason Berry: The Abuse Crisis and History,” American Catholic Historical Association Annual Meeting, New Orleans, LA (January 9, 2027).
 
-### Organized Panels
+**Panelist,** “Author-Meets-Respondents Panel: William Stell, *Born Again Queer: A History of Evangelical Gay Activism and the Making of Antigay Christianity* (Princeton University Press, 2026),” American Academy of Religion Annual Meeting, Denver, CO (November 23, 2026).
 
-"The State of Academic Freedom," Organization of American Historians Annual Meeting, Los Angeles, CA (March 30–April 2, 2023).
+**Invited Participant,** Seminar on the Archdiocese of Santa Fe’s clerical personnel files at the University of New Mexico, School for Advanced Research, Santa Fe, NM (September 21–25, 2026).
 
-"Difficult Females: The Women Who Brought Down Powerful Men Before \#MeToo," Organization of American Historians Annual Meeting, rescheduled from 2020 due to COVID-19 (April 15–18, 2021).
+**Keynote Address,** Religion and Sexual Abuse Project Conference, University of California, Riverside (May 30–31, 2025).
 
-"Evangelical Loyalties Reconsidered: A Roundtable on Sex, Power, and the Media in the Study of American Evangelicalism," American Historical Association Annual Meeting, New York, NY (January 3–6, 2020).
+**Panel Organizer,** "The State of Academic Freedom," Organization of American Historians Annual Meeting, Los Angeles, CA (March 30–April 2, 2023).
 
-"Romance, Reverends, and Renegades: Scandal as Gilded Age History," Organization of American Historians Annual Meeting (April 12–14, 2018).
+**Roundtable Participant,** “The Dust of Digital Archives: The Promises of Digital History and the Realities of Fragmentary Evidence,” Newberry Library Symposium “The Archive: Theory, Form, Practice,” Chicago, IL (May 5–6, 2022).
 
-### Invited Workshops
+**Paper,** "The Trouble with Childhood: Some Methodological Considerations for the Study of Age and Protestant Sex Abuse in the Gilded Age and Progressive Era,” Religion & Sexual Abuse Project Conference, Riverside, CA (March 4–5, 2022).
 
-Rocky Mountain American Religion Seminar, held virtually due to COVID-19 (July 29, 2021).
+**Invited Participant,** Rocky Mountain American Religion Seminar, held virtually due to COVID-19 (July 29, 2021).
 
-### Conference Roundtables
+**Panel Organizer,** "Difficult Females: The Women Who Brought Down Powerful Men Before \#MeToo," Organization of American Historians Annual Meeting, rescheduled from 2020 due to COVID-19 (April 15–18, 2021).
 
-“The Dust of Digital Archives: The Promises of Digital History and the Realities of Fragmentary Evidence,” Newberry Library Symposium “The Archive: Theory, Form, Practice,” Chicago, IL (May 5–6, 2022).
+**Roundtable Participant,** “Christian Fundamentalist Responses to Sexual Revolutions,” Organization of American Historians Annual Meeting, held virtually due to COVID-19 (April 15–18, 2021).
 
-“Christian Fundamentalist Responses to Sexual Revolutions,” Organization of American Historians Annual Meeting, held virtually due to COVID-19 (April 15–18, 2021).
+**Paper,** "'The Sin of Lewdness': How the New York Female Benevolent Society Brought down a Fellow Moral Crusader," Organization of American Historians Annual Meeting, rescheduled from 2020 due to COVID-19 (April 15–18, 2021).
 
-### Conference Papers
+**Paper,** “Sex Talk: How U.S. Fundamentalists Went from Avoiding to Addressing a Touchy Subject,” Society for U.S. Intellectual History Annual Meeting, held virtually due to COVID-19 (March 1, 2021).
 
-"The Trouble with Childhood: Some Methodological Considerations for the Study of Age and Protestant Sex Abuse in the Gilded Age and Progressive Era,” Religion & Sexual Abuse Project Conference, Riverside, CA (March 4–5, 2022).
+**Paper,** “’She Is Not Pretty and He Is Forty-Five Years Old’: The Problem of Age in Pastoral Sex Scandals of the Gilded Age and Progressive Era,” American Historical Association Annual Meeting, canceled due to COVID-19 (2021).
 
-"'The Sin of Lewdness': How the New York Female Benevolent Society Brought down a Fellow Moral Crusader," Organization of American Historians Annual Meeting, rescheduled from 2020 due to COVID-19 (April 15–18, 2021).
+**Paper,** "The Crimes of Preachers: Religion, Scandal, and the Trouble with Digitized Archives," Digitised Newspapers: A New Eldorado for Historians?, held virtually due to COVID-19 (April 22–23, 2020).
 
-“Sex Talk: How U.S. Fundamentalists Went from Avoiding to Addressing a Touchy Subject,” Society for U.S. Intellectual History Annual Meeting, held virtually due to COVID-19 (March 1, 2021).
+**Panel Organizer,** "Evangelical Loyalties Reconsidered: A Roundtable on Sex, Power, and the Media in the Study of American Evangelicalism," American Historical Association Annual Meeting, New York, NY (January 3–6, 2020).
 
-“’She Is Not Pretty and He Is Forty-Five Years Old’: The Problem of Age in Pastoral Sex Scandals of the Gilded Age and Progressive Era,” American Historical Association Annual Meeting, canceled due to COVID-19 (2021).
+**Paper,** "Straightwashing Protestant Sex Scandals: The Tentative Queerness of Billy James Hargis, Jim Bakker, and Ted Haggard," American Society of Church History, New York, NY (January 3–6, 2020).
 
-"The Crimes of Preachers: Religion, Scandal, and the Trouble with Digitized Archives," Digitised Newspapers: A New Eldorado for Historians?, held virtually due to COVID-19 (April 22–23, 2020).
+**Paper,** "Queer Rumors: Protestants Pastors, 'Unnatural' Deeds, and Church Censure in Early Twentieth-Century United States," Queer History Conference, San Francisco State University, San Francisco, CA (June 16–18, 2019).
 
-"Straightwashing Protestant Sex Scandals: The Tentative Queerness of Billy James Hargis, Jim Bakker, and Ted Haggard," American Society of Church History, New York, NY (January 3–6, 2020).
+**Paper,** "Visualizing Late Eighteenth-Century Maryland Catholic Slaveholding Using R Shiny," Current Research in Digital History, George Mason University, Arlington, VA (March 9, 2019).
 
-"Queer Rumors: Protestants Pastors, 'Unnatural' Deeds, and Church Censure in Early Twentieth-Century United States," Queer History Conference, San Francisco State University, San Francisco, CA (June 16–18, 2019).
+**Paper,** "Hypocrisy, Piety, and the In-Between: Evangelical Sex Scandals in the Late Twentieth Century," American Historical Association Annual Meeting, Chicago, IL (January 3–6, 2019).
 
-"Visualizing Late Eighteenth-Century Maryland Catholic Slaveholding Using R Shiny," Current Research in Digital History, George Mason University, Arlington, VA (March 9, 2019).
+**Paper,** "Mapping Ministerial Elopers: Using GIS and R Shiny to Track Runaway Protestant Pastors, 1870–1914," GIS Day Lightning Talk, Navari Family Center for Digital Scholarship, Hesburgh Library, University of Notre Dame, Notre Dame, IN (November 12, 2018).
 
-"Hypocrisy, Piety, and the In-Between: Evangelical Sex Scandals in the Late Twentieth Century," American Historical Association Annual Meeting, Chicago, IL (January 3–6, 2019).
+**Panel Organizer,** "Romance, Reverends, and Renegades: Scandal as Gilded Age History," Organization of American Historians Annual Meeting (April 12–14, 2018).
 
-"Mapping Ministerial Elopers: Using GIS and R Shiny to Track Runaway Protestant Pastors, 1870–1914," GIS Day Lightning Talk, Navari Family Center for Digital Scholarship, Hesburgh Library, University of Notre Dame, Notre Dame, IN (November 12, 2018).
+**Paper,** “Reverends on the Run: Ministerial Elopement Scandals in the Gilded Age Press,” Organization of American Historians Annual Meeting, Sacramento, CA (April 12–14, 2018).
 
-“Reverends on the Run: Ministerial Elopement Scandals in the Gilded Age Press,” Organization of American Historians Annual Meeting, Sacramento, CA (April 12–14, 2018).
+**Paper,** “’A Pervert Converted’: Religion and Marriage in a Nineteenth-Century Scandal,” Ways of Knowing Conference, Harvard Divinity School, Boston, MA (October 22–24, 2015).
 
-“’A Pervert Converted’: Religion and Marriage in a Nineteenth-Century Scandal,” Ways of Knowing Conference, Harvard Divinity School, Boston, MA (October 22–24, 2015).
+**Paper,** “’An Uncertain Priest’ and His Wife: Anti-Catholicism and Coverture in a Nineteenth-Century Scandal,”  Heidelberg Conference, University of Notre Dame, Notre Dame, IN (September 28–29, 2015).
 
-“’An Uncertain Priest’ and His Wife: Anti-Catholicism and Coverture in a Nineteenth-Century Scandal,”  Heidelberg Conference, University of Notre Dame, Notre Dame, IN (September 28–29, 2015).
+**Paper,** “’There Should Be No Discrimination’: Race and Religion in Midcentury St. Louis,” Graduate History Association Conference, Washington University in St. Louis, St. Louis, MO (October 10–11, 2014).
 
-“’There Should Be No Discrimination’: Race and Religion in Midcentury St. Louis,” Graduate History Association Conference, Washington University in St. Louis, St. Louis, MO (October 10–11, 2014).
+**Paper,** “’Love Cannot Find Them’: Disappearing Ministers and Sensational Scandals in Late Nineteenth-Century America,” Religion And Sexual Revolutions Conference, John C. Danforth Center on Religion and Politics, Washington University in St. Louis, St. Louis, MO (May 9, 2014).
 
-“’Love Cannot Find Them’: Disappearing Ministers and Sensational Scandals in Late Nineteenth-Century America,” Religion And Sexual Revolutions Conference, John C. Danforth Center on Religion and Politics, Washington University in St. Louis, St. Louis, MO (May 9, 2014).
+**Paper,** “From Psychopathy to Asylum: Homosexuality and Immigration, 1975–1990,” Queertopia Conference, Northwestern University, Evanston, IL (May 2–4, 2014).
 
-“From Psychopathy to Asylum: Homosexuality and Immigration, 1975–1990,” Queertopia Conference, Northwestern University, Evanston, IL (May 2–4, 2014).
+**Paper,** “’With All Deliberate Speed’: Progressives, Conservatives, and School Desegregation in Midcentury St. Louis,” Midwest Regional Meeting of the American Academy of Religion, Ohio Northern University, Ada, OH (April 4–6, 2014).
 
-“’With All Deliberate Speed’: Progressives, Conservatives, and School Desegregation in Midcentury St. Louis,” Midwest Regional Meeting of the American Academy of Religion, Ohio Northern University, Ada, OH (April 4–6, 2014).
+## Public Engagement
+
+**Podcast Guest,** ["Protestant Sex Scandals in America,"](https://podcasts.apple.com/us/podcast/protestant-sex-scandals-in-america/id1497578518?i=1000719849325) *The Revealer* (2025).
+
+**Book Talk,** [“*Disgraced*: How Sex Scandals Transformed American Protestantism,”](https://www.youtube.com/watch?v=BOmddOeQMYc) in conversation with Jim Mitulski, LGBTQ Religious Archives Network (May 22, 2025).
+
+**Podcast Guest,** ["Disgraced: How Sex Scandals Transformed American Protestantism With Dr. Suzanna Krivulskaya,"](https://podcasts.apple.com/us/podcast/disgraced-how-sex-scandals-transformed-american-protestantism/id1078739516?i=1000709370466) *Kingdom Roots* (2025).
+
+**Webinar Panelist,** [“Politics of Gender, Pronouns, and Public Education,”](https://www.youtube.com/watch?v=P_ySG1jPows) Public Religion Research Institute (2023).
+
+**Podcast Guest,** ["Protestant Sex Scandals,"](https://podcasts.apple.com/us/podcast/ep-198-protestant-sex-scandals-w-dr-suzanna-krivulskaya/id1268915829?i=1000513737043) *The Classical Ideas Podcast* (2021).
+
+**Podcast Guest,** ["Ministerial Sex Scandal,"](https://www.listennotes.com/podcasts/ten-minute-history/suzanna-krivulskaya-ypuERt-QY4i/) *Ten Minute History* (2019).
 
 ## Awards
 
