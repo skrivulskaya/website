@@ -211,3 +211,94 @@ a.big:hover{border-color:var(--gold)}
 /* Long URLs and words wrap instead of widening the page on phones */
 .prose,.page-hero h1{overflow-wrap:anywhere}
 @media (max-width:640px){.tut-grid{grid-template-columns:1fr 1fr;gap:12px}.tut .thumb{padding:16px}.tut b{font-size:20px;padding:10px 14px}}
+
+/* ============ Tutorials ============ */
+.read-progress{position:fixed;top:0;left:0;right:0;height:3px;z-index:60;pointer-events:none}
+.read-progress span{display:block;height:100%;width:0;background:var(--gold);transition:width .1s linear}
+.tut-meta{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin-top:16px;color:var(--muted-navy);font-size:14px}
+.chip{display:inline-block;font-size:12px;font-weight:600;letter-spacing:.04em;padding:4px 10px;border-radius:999px;background:rgba(226,184,102,.16);color:var(--gold)}
+.tut-layout{max-width:780px}
+.tut-layout.has-toc{display:grid;grid-template-columns:200px minmax(0,780px);gap:56px;max-width:1100px}
+.tut-toc{display:none}
+.has-toc .tut-toc{display:block;position:sticky;top:24px;align-self:start;border-left:2px solid var(--line);font-size:14px}
+.toc-label{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);font-weight:600;padding:0 0 8px 14px}
+.tut-toc a{display:block;padding:6px 0 6px 14px;margin-left:-2px;border-left:2px solid transparent;color:var(--muted);text-decoration:none;line-height:1.35}
+.tut-toc a:hover{color:var(--ink)}
+.tut-toc a.on{color:var(--ink);font-weight:600;border-left-color:var(--gold)}
+.tut-body h2{scroll-margin-top:24px}
+.tut-body li > p{margin:0}
+.tut-body li + li{margin-top:.9em}
+.tut-body li li + li{margin-top:.35em}
+.tut-body img{max-width:100%}
+.tut-body a > img{max-height:220px;width:auto;border:0;border-radius:6px}
+.tut-body img.zoomable{cursor:zoom-in;box-shadow:0 6px 18px rgba(23,33,58,.08)}
+
+/* Numbered steps: ordered lists everywhere, plus bulleted lists on pages marked "steps: true" */
+.tut-body > ol{list-style:none;padding-left:0;counter-reset:ol}
+.tut-body > ol > li{counter-increment:ol;position:relative;padding-left:46px}
+.tut-body > ol > li::before{content:counter(ol)}
+.tut-body.steps{counter-reset:step}
+.tut-body.steps h2{counter-reset:step}
+.tut-body.steps > ul{list-style:none;padding-left:0}
+.tut-body.steps > ul > li{counter-increment:step;position:relative;padding-left:46px}
+.tut-body.steps > ul > li::before{content:counter(step)}
+.tut-body > ol > li::before,.tut-body.steps > ul > li::before{position:absolute;left:0;top:1px;width:30px;height:30px;border-radius:50%;background:var(--navy);color:var(--gold);font-size:13px;font-weight:600;display:grid;place-items:center;line-height:1}
+.tut-body.steps > ul > li.save{counter-increment:none;padding-left:46px}
+.tut-body.steps > ul > li.save::before{content:"✓";background:var(--gold);color:var(--navy)}
+.tut-body li.save{font-size:14px;font-weight:600;color:var(--gold-dk)}
+
+/* Notes and option cards */
+.tut-body .note{background:var(--cream);border-left:3px solid var(--gold);border-radius:0 10px 10px 0;padding:14px 18px;font-size:15.5px}
+.tut-body .option{background:#fff;border:1px solid var(--line);border-radius:12px;padding:16px 18px}
+
+/* Chicago style: format and example boxes */
+.tut-body p.box-label{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-dk);margin-top:1.2em}
+.tut-body p.box-label strong{font-weight:600}
+.tut-body p.box-label + p.box{margin-top:.4em}
+.tut-body .box{border-radius:10px;padding:14px 18px;font-size:16px;line-height:1.6}
+.tut-body .box-format{background:#fff;border:1px dashed #c9bfa8;color:var(--muted)}
+.tut-body .box-example{background:var(--cream);border-left:3px solid var(--navy)}
+
+/* Previous / next */
+.tut-pager{display:flex;justify-content:space-between;gap:16px;margin-top:56px}
+.pager{flex:1;max-width:360px;background:#fff;border:1px solid var(--line);border-radius:14px;padding:16px 20px;text-decoration:none;transition:.15s}
+.pager:hover{border-color:var(--gold);transform:translateY(-2px)}
+.pager.next{text-align:right;margin-left:auto}
+.pager small{display:block;color:var(--muted);font-size:13px}
+.pager b{font-family:var(--serif);font-weight:400;font-size:24px}
+
+/* Enlarged screenshot */
+.lightbox{position:fixed;inset:0;z-index:70;background:rgba(14,20,36,.92);display:grid;place-items:center;padding:24px;cursor:zoom-out}
+.lightbox[hidden]{display:none}
+.lightbox img{max-width:min(1400px,94vw);max-height:90vh;border-radius:8px;box-shadow:0 20px 60px rgba(0,0,0,.5)}
+.lightbox button{position:absolute;top:16px;right:20px;width:44px;height:44px;border-radius:50%;border:0;background:var(--cream);color:var(--navy);font-size:26px;line-height:1;cursor:pointer}
+
+@media (max-width:900px){
+  .tut-layout.has-toc{display:block}
+  .has-toc .tut-toc{display:none}
+}
+@media (max-width:520px){
+  .tut-body > ol > li,.tut-body.steps > ul > li,.tut-body.steps > ul > li.save{padding-left:36px}
+  .tut-body > ol > li::before,.tut-body.steps > ul > li::before{width:26px;height:26px;font-size:12px}
+  .tut-body{font-size:16px}
+  .tut-pager{flex-direction:column}
+  .pager{max-width:none}
+  .pager.next{text-align:left}
+}
+
+/* Tutorials index cards: description + details */
+.tut .tut-text{display:block;padding:14px 18px 18px}
+.tut .tut-text b{padding:0;display:block}
+.tut .tut-text .desc{display:block;font-size:14px;color:var(--muted);line-height:1.45;margin-top:6px}
+.tut .tut-text .tut-info{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:10px;font-size:12.5px;color:var(--muted)}
+.tut .tut-text .chip{background:var(--cream);color:var(--gold-dk)}
+
+/* Chicago style: "anatomy of a footnote" diagrams */
+.tut-body .anatomy{background:#fff;border:1px solid var(--line);border-radius:14px;padding:18px 22px 16px;margin:1.4em 0}
+.anat-title{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);font-weight:600;margin-bottom:12px}
+.tut-body p.anat-cite{display:flex;flex-wrap:wrap;align-items:flex-start;gap:12px 8px;margin:0;font-size:17px;line-height:1.35}
+.anat-cite .pt{display:inline-flex;flex-direction:column;max-width:100%}
+.anat-cite .txt{padding-bottom:5px;border-bottom:3px solid var(--c)}
+.anat-cite .lbl{margin-top:5px;font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;color:var(--c)}
+.c-author{--c:#17213a}.c-title{--c:#a77a1e}.c-pub{--c:#4f7a69}.c-vol{--c:#7a4f8a}.c-date{--c:#3f6d9e}.c-page{--c:#b0503c}
+@media (max-width:520px){.tut-body p.anat-cite{font-size:15.5px}.tut-body .anatomy{padding:14px 14px 12px}}
